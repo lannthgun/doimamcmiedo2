@@ -1961,3 +1961,7 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [12Apr2025 01:51:13.986] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Baeel lost connection: Disconnected
 [12Apr2025 01:51:13.986] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Baeel left the game
 [12Apr2025 01:51:13.986] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Baeel
+[12Apr2025 01:56:24.483] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[12Apr2025 01:56:24.483] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: a<--[HERE]
+[12Apr2025 02:02:14.888] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[12Apr2025 02:02:14.903] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: e<--[HERE]

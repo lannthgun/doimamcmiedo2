@@ -1,0 +1,17 @@
+{
+	id: "907b1982-352a-3c5a-b60d-dc96b45b04d4"
+	type: "player"
+	player_name: "W4ndr"
+	ranks: {
+		907b1982-352a-3c5a-b60d-dc96b45b04d4: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "W4ndr"
+		"ftbteams:description": ""
+		"ftbteams:color": "#E0FF59"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

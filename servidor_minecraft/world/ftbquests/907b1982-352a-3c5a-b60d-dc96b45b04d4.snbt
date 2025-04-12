@@ -1,0 +1,12 @@
+{
+	version: 1
+	uuid: "907b1982352a3c5ab60ddc96b45b04d4"
+	name: "W4ndr#907b1982"
+	lock: false
+	rewards_blocked: false
+	task_progress: { }
+	started: { }
+	completed: { }
+	claimed_rewards: { }
+	player_data: { }
+}

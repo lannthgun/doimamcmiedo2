@@ -1,0 +1,12 @@
+{
+	version: 1
+	uuid: "23ae852cc9223caab42c37a81d0fba1c"
+	name: "Baeel#23ae852c"
+	lock: false
+	rewards_blocked: false
+	task_progress: { }
+	started: { }
+	completed: { }
+	claimed_rewards: { }
+	player_data: { }
+}

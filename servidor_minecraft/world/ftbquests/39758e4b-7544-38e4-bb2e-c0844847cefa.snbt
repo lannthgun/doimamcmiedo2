@@ -1,0 +1,12 @@
+{
+	version: 1
+	uuid: "39758e4b754438e4bb2ec0844847cefa"
+	name: "Dazai#39758e4b"
+	lock: false
+	rewards_blocked: false
+	task_progress: { }
+	started: { }
+	completed: { }
+	claimed_rewards: { }
+	player_data: { }
+}

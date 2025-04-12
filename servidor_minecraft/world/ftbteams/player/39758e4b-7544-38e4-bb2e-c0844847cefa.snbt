@@ -1,0 +1,17 @@
+{
+	id: "39758e4b-7544-38e4-bb2e-c0844847cefa"
+	type: "player"
+	player_name: "Dazai"
+	ranks: {
+		39758e4b-7544-38e4-bb2e-c0844847cefa: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "Dazai"
+		"ftbteams:description": ""
+		"ftbteams:color": "#597EFF"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

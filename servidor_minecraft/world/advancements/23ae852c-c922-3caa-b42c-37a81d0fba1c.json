@@ -1,0 +1,56 @@
+{
+  "undead_revamp2:theundeadchallenges": {
+    "criteria": {
+      "theundeadchallenges_0": "2025-04-12 01:10:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/crafting_table": {
+    "criteria": {
+      "unlock_right_away": "2025-04-12 01:10:07 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:biomesoplenty/all_biomes": {
+    "criteria": {
+      "woodland": "2025-04-12 01:12:20 +0000",
+      "rocky_rainforest": "2025-04-12 01:12:37 +0000",
+      "rainforest": "2025-04-12 01:12:38 +0000"
+    },
+    "done": false
+  },
+  "biomesoplenty:biomesoplenty/root": {
+    "criteria": {
+      "woodland": "2025-04-12 01:12:20 +0000"
+    },
+    "done": true
+  },
+  "man:feelingwatched": {
+    "criteria": {
+      "feelingwatched_0": "2025-04-12 01:14:21 +0000"
+    },
+    "done": true
+  },
+  "endofherobrine:story/root": {
+    "criteria": {
+      "requirement": "2025-04-12 01:12:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:savanna_plateau": "2025-04-12 01:12:07 +0000",
+      "minecraft:river": "2025-04-12 01:11:57 +0000",
+      "minecraft:forest": "2025-04-12 01:12:13 +0000",
+      "minecraft:savanna": "2025-04-12 01:10:08 +0000"
+    },
+    "done": false
+  },
+  "born_in_chaos_v1:bornin_chaos": {
+    "criteria": {
+      "bornin_chaos_0": "2025-04-12 01:10:07 +0000"
+    },
+    "done": true
+  },
+  "DataVersion": 3465
+}

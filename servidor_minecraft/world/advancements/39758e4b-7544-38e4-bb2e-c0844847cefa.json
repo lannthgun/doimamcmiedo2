@@ -11,6 +11,12 @@
     },
     "done": true
   },
+  "born_in_chaos_v1:bornin_chaos": {
+    "criteria": {
+      "bornin_chaos_0": "2025-04-12 01:14:46 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
       "woodland": "2025-04-12 01:14:47 +0000",
@@ -30,9 +36,9 @@
     },
     "done": true
   },
-  "born_in_chaos_v1:bornin_chaos": {
+  "minecraft:recipes/food/cake": {
     "criteria": {
-      "bornin_chaos_0": "2025-04-12 01:14:46 +0000"
+      "has_egg": "2025-04-12 01:26:18 +0000"
     },
     "done": true
   },

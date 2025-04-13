@@ -5,21 +5,30 @@
     },
     "done": true
   },
-  "undead_revamp2:parry": {
-    "criteria": {
-      "parry_0": "2025-04-12 01:41:39 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/crafting_table": {
     "criteria": {
       "unlock_right_away": "2025-04-12 01:10:07 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/misc/red_dye_from_rose_bush": {
+  "born_in_chaos_v1:bornin_chaos": {
     "criteria": {
-      "has_rose_bush": "2025-04-12 01:42:07 +0000"
+      "bornin_chaos_0": "2025-04-12 01:10:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:savanna_plateau": "2025-04-12 01:12:07 +0000",
+      "minecraft:river": "2025-04-12 01:11:57 +0000",
+      "minecraft:forest": "2025-04-12 01:12:13 +0000",
+      "minecraft:savanna": "2025-04-12 01:10:08 +0000"
+    },
+    "done": false
+  },
+  "endofherobrine:story/root": {
+    "criteria": {
+      "requirement": "2025-04-12 01:12:04 +0000"
     },
     "done": true
   },
@@ -30,12 +39,6 @@
       "rainforest": "2025-04-12 01:12:38 +0000"
     },
     "done": false
-  },
-  "spartanweaponry:recipes/small_arrow_quiver": {
-    "criteria": {
-      "has_arrow": "2025-04-12 01:45:39 +0000"
-    },
-    "done": true
   },
   "biomesoplenty:biomesoplenty/root": {
     "criteria": {
@@ -55,30 +58,27 @@
     },
     "done": true
   },
-  "endofherobrine:story/root": {
-    "criteria": {
-      "requirement": "2025-04-12 01:12:04 +0000"
-    },
-    "done": true
-  },
   "minecraft:adventure/root": {
     "criteria": {
       "killed_by_something": "2025-04-12 01:40:58 +0000"
     },
     "done": true
   },
-  "minecraft:adventure/adventuring_time": {
+  "undead_revamp2:parry": {
     "criteria": {
-      "minecraft:savanna_plateau": "2025-04-12 01:12:07 +0000",
-      "minecraft:river": "2025-04-12 01:11:57 +0000",
-      "minecraft:forest": "2025-04-12 01:12:13 +0000",
-      "minecraft:savanna": "2025-04-12 01:10:08 +0000"
+      "parry_0": "2025-04-12 01:41:39 +0000"
     },
-    "done": false
+    "done": true
   },
-  "born_in_chaos_v1:bornin_chaos": {
+  "minecraft:recipes/misc/red_dye_from_rose_bush": {
     "criteria": {
-      "bornin_chaos_0": "2025-04-12 01:10:07 +0000"
+      "has_rose_bush": "2025-04-12 01:42:07 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/small_arrow_quiver": {
+    "criteria": {
+      "has_arrow": "2025-04-12 01:45:39 +0000"
     },
     "done": true
   },

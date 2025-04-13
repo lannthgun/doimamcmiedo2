@@ -11,6 +11,12 @@
     },
     "done": true
   },
+  "born_in_chaos_v1:bornin_chaos": {
+    "criteria": {
+      "bornin_chaos_0": "2025-04-12 01:40:29 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
       "woodland": "2025-04-12 01:40:30 +0000",
@@ -25,9 +31,9 @@
     },
     "done": true
   },
-  "man:feelingwatched": {
+  "minecraft:adventure/root": {
     "criteria": {
-      "feelingwatched_0": "2025-04-12 01:41:32 +0000"
+      "killed_by_something": "2025-04-12 01:40:53 +0000"
     },
     "done": true
   },
@@ -37,15 +43,9 @@
     },
     "done": true
   },
-  "minecraft:adventure/root": {
+  "man:feelingwatched": {
     "criteria": {
-      "killed_by_something": "2025-04-12 01:40:53 +0000"
-    },
-    "done": true
-  },
-  "born_in_chaos_v1:bornin_chaos": {
-    "criteria": {
-      "bornin_chaos_0": "2025-04-12 01:40:29 +0000"
+      "feelingwatched_0": "2025-04-12 01:41:32 +0000"
     },
     "done": true
   },

@@ -1,0 +1,12 @@
+{
+	version: 1
+	uuid: "6a94e407618d373fa26306c6908c43d5"
+	name: "Pantective#6a94e407"
+	lock: false
+	rewards_blocked: false
+	task_progress: { }
+	started: { }
+	completed: { }
+	claimed_rewards: { }
+	player_data: { }
+}

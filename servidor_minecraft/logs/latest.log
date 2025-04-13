@@ -396,3 +396,159 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [13Apr2025 03:46:21.721] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 6a94e407-618d-373f-a263-06c6908c43d5
 [13Apr2025 03:46:22.710] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 6a94e407-618d-373f-a263-06c6908c43d5
 [13Apr2025 03:46:22.711] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Pantective (6a94e407-618d-373f-a263-06c6908c43d5) successfully connected to voice chat
+[13Apr2025 03:46:26.620] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_trap but it was marked as removed already
+[13Apr2025 03:46:30.717] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_viewer but it was marked as removed already
+[13Apr2025 03:46:30.718] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_viewer but it was marked as removed already
+[13Apr2025 03:46:31.916] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_trap but it was marked as removed already
+[13Apr2025 03:46:33.018] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_viewer but it was marked as removed already
+[13Apr2025 03:46:33.398] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Baeel[/127.241.192.107:40425] logged in with entity id 266 at (883.7726691030564, 120.0, -412.31291990028893)
+[13Apr2025 03:46:33.428] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Baeel joined the game
+[13Apr2025 03:46:35.616] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_viewer but it was marked as removed already
+[13Apr2025 03:46:35.668] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_viewer but it was marked as removed already
+[13Apr2025 03:46:35.967] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_viewer but it was marked as removed already
+[13Apr2025 03:46:37.038] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Baeel (18)
+[13Apr2025 03:46:37.039] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Baeel
+[13Apr2025 03:46:42.817] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_viewer but it was marked as removed already
+[13Apr2025 03:46:43.166] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_viewer but it was marked as removed already
+[13Apr2025 03:46:43.167] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_trap but it was marked as removed already
+[13Apr2025 03:46:43.589] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 23ae852c-c922-3caa-b42c-37a81d0fba1c
+[13Apr2025 03:46:44.592] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 23ae852c-c922-3caa-b42c-37a81d0fba1c
+[13Apr2025 03:46:44.593] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Baeel (23ae852c-c922-3caa-b42c-37a81d0fba1c) successfully connected to voice chat
+[13Apr2025 03:46:54.783] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=884, y=120, z=-440}
+[13Apr2025 03:47:02.599] [ForkJoinPool.commonPool-worker-3/INFO] [com.natamus.beautifiedchatserver_common_forge.data.Chat/]: 03:47 | Baeel: p
+[13Apr2025 03:47:02.614] [Server thread/INFO] [com.natamus.beautifiedchatserver_common_forge.data.Chat/]: 03:47 | Baeel: p
+[13Apr2025 03:47:05.817] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_viewer but it was marked as removed already
+[13Apr2025 03:47:05.831] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=884, y=119, z=-438}
+[13Apr2025 03:47:06.450] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=884, y=119, z=-438}
+[13Apr2025 03:47:07.449] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=881, y=119, z=-435}
+[13Apr2025 03:47:07.450] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=881, y=119, z=-434}
+[13Apr2025 03:47:07.835] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_trap but it was marked as removed already
+[13Apr2025 03:47:08.614] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_viewer but it was marked as removed already
+[13Apr2025 03:47:11.216] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_trap but it was marked as removed already
+[13Apr2025 03:47:11.817] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_escape but it was marked as removed already
+[13Apr2025 03:47:18.419] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_trap but it was marked as removed already
+[13Apr2025 03:47:18.820] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_trap but it was marked as removed already
+[13Apr2025 03:47:20.968] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_trap but it was marked as removed already
+[13Apr2025 03:47:21.817] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_trap but it was marked as removed already
+[13Apr2025 03:47:32.182] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pantective has reached the goal [Feeling Watched]
+[13Apr2025 03:47:41.016] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_trap but it was marked as removed already
+[13Apr2025 03:47:41.067] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_viewer but it was marked as removed already
+[13Apr2025 03:47:47.784] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_viewer but it was marked as removed already
+[13Apr2025 03:47:47.917] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_viewer but it was marked as removed already
+[13Apr2025 03:47:52.017] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_viewer but it was marked as removed already
+[13Apr2025 03:47:52.080] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dazai was slain by Man From The Fog
+[13Apr2025 03:47:52.169] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_viewer but it was marked as removed already
+[13Apr2025 03:47:53.468] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_viewer but it was marked as removed already
+[13Apr2025 03:47:53.692] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_trap but it was marked as removed already
+[13Apr2025 03:47:54.091] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_viewer but it was marked as removed already
+[13Apr2025 03:47:59.452] [ForkJoinPool.commonPool-worker-3/INFO] [com.natamus.beautifiedchatserver_common_forge.data.Chat/]: 03:47 | Dazai: dame crea
+[13Apr2025 03:47:59.452] [Server thread/INFO] [com.natamus.beautifiedchatserver_common_forge.data.Chat/]: 03:47 | Dazai: dame crea
+[13Apr2025 03:48:01.832] [ForkJoinPool.commonPool-worker-3/INFO] [com.natamus.beautifiedchatserver_common_forge.data.Chat/]: 03:48 | Dazai: un momento
+[13Apr2025 03:48:01.832] [Server thread/INFO] [com.natamus.beautifiedchatserver_common_forge.data.Chat/]: 03:48 | Dazai: un momento
+[13Apr2025 03:48:03.848] [ForkJoinPool.commonPool-worker-3/INFO] [com.natamus.beautifiedchatserver_common_forge.data.Chat/]: 03:48 | Dazai: a ani a mi
+[13Apr2025 03:48:03.849] [Server thread/INFO] [com.natamus.beautifiedchatserver_common_forge.data.Chat/]: 03:48 | Dazai: a ani a mi
+[13Apr2025 03:48:06.347] [ForkJoinPool.commonPool-worker-3/INFO] [com.natamus.beautifiedchatserver_common_forge.data.Chat/]: 03:48 | Dazai: o pon
+[13Apr2025 03:48:06.348] [Server thread/INFO] [com.natamus.beautifiedchatserver_common_forge.data.Chat/]: 03:48 | Dazai: o pon
+[13Apr2025 03:48:08.096] [ForkJoinPool.commonPool-worker-3/INFO] [com.natamus.beautifiedchatserver_common_forge.data.Chat/]: 03:48 | Dazai: peaceful
+[13Apr2025 03:48:08.096] [Server thread/INFO] [com.natamus.beautifiedchatserver_common_forge.data.Chat/]: 03:48 | Dazai: peaceful
+[13Apr2025 03:48:08.896] [ForkJoinPool.commonPool-worker-3/INFO] [com.natamus.beautifiedchatserver_common_forge.data.Chat/]: 03:48 | Dazai: porfa
+[13Apr2025 03:48:08.896] [Server thread/INFO] [com.natamus.beautifiedchatserver_common_forge.data.Chat/]: 03:48 | Dazai: porfa
+[13Apr2025 03:48:14.516] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_trap but it was marked as removed already
+[13Apr2025 03:48:14.666] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_viewer but it was marked as removed already
+[13Apr2025 03:48:14.966] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity the_anomaly:anomaly_trap but it was marked as removed already
+[13Apr2025 03:48:15.770] [ForkJoinPool.commonPool-worker-3/WARN] [SkinRestorer/]: Failed to fetch skin: not found
+[13Apr2025 03:48:15.789] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: W4ndr[/127.207.108.179:46889] logged in with entity id 571 at (868.988857807624, 122.0, -429.5588181302637)
+[13Apr2025 03:48:15.795] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: W4ndr joined the game
+[13Apr2025 03:48:16.280] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of W4ndr (18)
+[13Apr2025 03:48:16.280] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to W4ndr
+[13Apr2025 03:48:18.892] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Baeel: The difficulty has been set to Peaceful]
+[13Apr2025 03:48:21.783] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 907b1982-352a-3c5a-b60d-dc96b45b04d4
+[13Apr2025 03:48:22.781] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 907b1982-352a-3c5a-b60d-dc96b45b04d4
+[13Apr2025 03:48:22.782] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player W4ndr (907b1982-352a-3c5a-b60d-dc96b45b04d4) successfully connected to voice chat
+[13Apr2025 03:48:31.940] [ForkJoinPool.commonPool-worker-3/INFO] [com.natamus.beautifiedchatserver_common_forge.data.Chat/]: 03:48 | Baeel: iba a preguntar qn era Pantective
+[13Apr2025 03:48:31.941] [Server thread/INFO] [com.natamus.beautifiedchatserver_common_forge.data.Chat/]: 03:48 | Baeel: iba a preguntar qn era Pantective
+[13Apr2025 03:48:47.626] [ForkJoinPool.commonPool-worker-3/INFO] [com.natamus.beautifiedchatserver_common_forge.data.Chat/]: 03:48 | Baeel: si les sirve el vc?
+[13Apr2025 03:48:47.626] [Server thread/INFO] [com.natamus.beautifiedchatserver_common_forge.data.Chat/]: 03:48 | Baeel: si les sirve el vc?
+[13Apr2025 03:48:54.976] [ForkJoinPool.commonPool-worker-3/INFO] [com.natamus.beautifiedchatserver_common_forge.data.Chat/]: 03:48 | Baeel: ola
+[13Apr2025 03:48:54.976] [Server thread/INFO] [com.natamus.beautifiedchatserver_common_forge.data.Chat/]: 03:48 | Baeel: ola
+[13Apr2025 03:48:56.678] [ForkJoinPool.commonPool-worker-3/INFO] [com.natamus.beautifiedchatserver_common_forge.data.Chat/]: 03:48 | Baeel: nahida
+[13Apr2025 03:48:56.679] [Server thread/INFO] [com.natamus.beautifiedchatserver_common_forge.data.Chat/]: 03:48 | Baeel: nahida
+[13Apr2025 03:49:13.857] [ForkJoinPool.commonPool-worker-3/INFO] [com.natamus.beautifiedchatserver_common_forge.data.Chat/]: 03:49 | W4ndr: donde estan
+[13Apr2025 03:49:13.858] [Server thread/INFO] [com.natamus.beautifiedchatserver_common_forge.data.Chat/]: 03:49 | W4ndr: donde estan
+[13Apr2025 03:49:14.426] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Dazai: No skin changes]
+[13Apr2025 03:49:16.106] [ForkJoinPool.commonPool-worker-3/INFO] [com.natamus.beautifiedchatserver_common_forge.data.Chat/]: 03:49 | Baeel: activa el vc
+[13Apr2025 03:49:16.106] [Server thread/INFO] [com.natamus.beautifiedchatserver_common_forge.data.Chat/]: 03:49 | Baeel: activa el vc
+[13Apr2025 03:49:22.607] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Dazai: Skin changed]
+[13Apr2025 03:49:30.427] [ForkJoinPool.commonPool-worker-3/INFO] [com.natamus.beautifiedchatserver_common_forge.data.Chat/]: 03:49 | Baeel: dazai dazai skin
+[13Apr2025 03:49:30.427] [Server thread/INFO] [com.natamus.beautifiedchatserver_common_forge.data.Chat/]: 03:49 | Baeel: dazai dazai skin
+[13Apr2025 03:49:33.496] [ForkJoinPool.commonPool-worker-3/INFO] [com.natamus.beautifiedchatserver_common_forge.data.Chat/]: 03:49 | Dazai: olaola
+[13Apr2025 03:49:33.497] [Server thread/INFO] [com.natamus.beautifiedchatserver_common_forge.data.Chat/]: 03:49 | Dazai: olaola
+[13Apr2025 03:49:49.984] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Baeel: Set own game mode to Survival Mode]
+[13Apr2025 03:49:58.126] [ForkJoinPool.commonPool-worker-3/INFO] [com.natamus.beautifiedchatserver_common_forge.data.Chat/]: 03:49 | Baeel: omg ola edras
+[13Apr2025 03:49:58.126] [Server thread/INFO] [com.natamus.beautifiedchatserver_common_forge.data.Chat/]: 03:49 | Baeel: omg ola edras
+[13Apr2025 03:50:08.728] [ForkJoinPool.commonPool-worker-3/INFO] [com.natamus.beautifiedchatserver_common_forge.data.Chat/]: 03:50 | Baeel: nao
+[13Apr2025 03:50:08.728] [Server thread/INFO] [com.natamus.beautifiedchatserver_common_forge.data.Chat/]: 03:50 | Baeel: nao
+[13Apr2025 03:50:31.341] [ForkJoinPool.commonPool-worker-3/INFO] [com.natamus.beautifiedchatserver_common_forge.data.Chat/]: 03:50 | Baeel: pon /skin (nombre de alguna cuenta de mc con skin pro)
+[13Apr2025 03:50:31.341] [Server thread/INFO] [com.natamus.beautifiedchatserver_common_forge.data.Chat/]: 03:50 | Baeel: pon /skin (nombre de alguna cuenta de mc con skin pro)
+[13Apr2025 03:51:07.930] [ForkJoinPool.commonPool-worker-3/INFO] [com.natamus.beautifiedchatserver_common_forge.data.Chat/]: 03:51 | Baeel: no ha hablado nora? cerre dc pq m consume mucha ram
+[13Apr2025 03:51:07.931] [Server thread/INFO] [com.natamus.beautifiedchatserver_common_forge.data.Chat/]: 03:51 | Baeel: no ha hablado nora? cerre dc pq m consume mucha ram
+[13Apr2025 03:51:28.027] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: W4ndr lost connection: Disconnected
+[13Apr2025 03:51:28.027] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: W4ndr left the game
+[13Apr2025 03:51:28.030] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client W4ndr
+[13Apr2025 03:51:29.926] [ForkJoinPool.commonPool-worker-3/INFO] [com.natamus.beautifiedchatserver_common_forge.data.Chat/]: 03:51 | Baeel: como q no
+[13Apr2025 03:51:29.927] [Server thread/INFO] [com.natamus.beautifiedchatserver_common_forge.data.Chat/]: 03:51 | Baeel: como q no
+[13Apr2025 03:51:31.203] [ForkJoinPool.commonPool-worker-3/INFO] [com.natamus.beautifiedchatserver_common_forge.data.Chat/]: 03:51 | Baeel: q
+[13Apr2025 03:51:31.203] [Server thread/INFO] [com.natamus.beautifiedchatserver_common_forge.data.Chat/]: 03:51 | Baeel: q
+[13Apr2025 03:51:54.197] [ForkJoinPool.commonPool-worker-3/INFO] [com.natamus.beautifiedchatserver_common_forge.data.Chat/]: 03:51 | Baeel: wtf pero si está en pacifico
+[13Apr2025 03:51:54.198] [Server thread/INFO] [com.natamus.beautifiedchatserver_common_forge.data.Chat/]: 03:51 | Baeel: wtf pero si está en pacifico
+[13Apr2025 03:52:04.496] [ForkJoinPool.commonPool-worker-3/INFO] [com.natamus.beautifiedchatserver_common_forge.data.Chat/]: 03:52 | Baeel: hmano no veo nada
+[13Apr2025 03:52:04.496] [Server thread/INFO] [com.natamus.beautifiedchatserver_common_forge.data.Chat/]: 03:52 | Baeel: hmano no veo nada
+[13Apr2025 03:52:27.813] [ForkJoinPool.commonPool-worker-3/INFO] [com.natamus.beautifiedchatserver_common_forge.data.Chat/]: 03:52 | Dazai: cuatnos fps
+[13Apr2025 03:52:27.814] [Server thread/INFO] [com.natamus.beautifiedchatserver_common_forge.data.Chat/]: 03:52 | Dazai: cuatnos fps
+[13Apr2025 03:52:28.878] [ForkJoinPool.commonPool-worker-3/INFO] [com.natamus.beautifiedchatserver_common_forge.data.Chat/]: 03:52 | Dazai: te va
+[13Apr2025 03:52:28.879] [Server thread/INFO] [com.natamus.beautifiedchatserver_common_forge.data.Chat/]: 03:52 | Dazai: te va
+[13Apr2025 03:52:29.762] [ForkJoinPool.commonPool-worker-3/INFO] [com.natamus.beautifiedchatserver_common_forge.data.Chat/]: 03:52 | Dazai: zun
+[13Apr2025 03:52:29.763] [Server thread/INFO] [com.natamus.beautifiedchatserver_common_forge.data.Chat/]: 03:52 | Dazai: zun
+[13Apr2025 03:52:33.382] [ForkJoinPool.commonPool-worker-3/INFO] [com.natamus.beautifiedchatserver_common_forge.data.Chat/]: 03:52 | Baeel: 50
+[13Apr2025 03:52:33.382] [Server thread/INFO] [com.natamus.beautifiedchatserver_common_forge.data.Chat/]: 03:52 | Baeel: 50
+[13Apr2025 03:52:35.678] [ForkJoinPool.commonPool-worker-3/INFO] [com.natamus.beautifiedchatserver_common_forge.data.Chat/]: 03:52 | Baeel: JASKJJA
+[13Apr2025 03:52:35.678] [Server thread/INFO] [com.natamus.beautifiedchatserver_common_forge.data.Chat/]: 03:52 | Baeel: JASKJJA
+[13Apr2025 03:53:24.425] [ForkJoinPool.commonPool-worker-3/INFO] [com.natamus.beautifiedchatserver_common_forge.data.Chat/]: 03:53 | Dazai: esq a ani
+[13Apr2025 03:53:24.425] [Server thread/INFO] [com.natamus.beautifiedchatserver_common_forge.data.Chat/]: 03:53 | Dazai: esq a ani
+[13Apr2025 03:53:26.281] [ForkJoinPool.commonPool-worker-3/INFO] [com.natamus.beautifiedchatserver_common_forge.data.Chat/]: 03:53 | Dazai: le va 15..
+[13Apr2025 03:53:26.281] [Server thread/INFO] [com.natamus.beautifiedchatserver_common_forge.data.Chat/]: 03:53 | Dazai: le va 15..
+[13Apr2025 03:53:39.882] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@6fbf59c0[id=<null>,name=W4ndr,properties={},legacy=false] (/127.207.108.179:58835) lost connection: Disconnected
+[13Apr2025 03:53:47.965] [ForkJoinPool.commonPool-worker-3/WARN] [SkinRestorer/]: Failed to fetch skin: not found
+[13Apr2025 03:53:47.979] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: W4ndr[/127.207.108.179:51651] logged in with entity id 5424 at (878.4106925797225, 122.0, -413.69999998807907)
+[13Apr2025 03:53:47.984] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: W4ndr joined the game
+[13Apr2025 03:53:48.129] [ForkJoinPool.commonPool-worker-3/INFO] [com.natamus.beautifiedchatserver_common_forge.data.Chat/]: 03:53 | Baeel: q desactive cosas en graficos
+[13Apr2025 03:53:48.129] [Server thread/INFO] [com.natamus.beautifiedchatserver_common_forge.data.Chat/]: 03:53 | Baeel: q desactive cosas en graficos
+[13Apr2025 03:53:48.448] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of W4ndr (18)
+[13Apr2025 03:53:48.449] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to W4ndr
+[13Apr2025 03:53:55.700] [ForkJoinPool.commonPool-worker-3/INFO] [com.natamus.beautifiedchatserver_common_forge.data.Chat/]: 03:53 | Dazai: ya desactivo todo
+[13Apr2025 03:53:55.701] [Server thread/INFO] [com.natamus.beautifiedchatserver_common_forge.data.Chat/]: 03:53 | Dazai: ya desactivo todo
+[13Apr2025 03:53:59.987] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 907b1982-352a-3c5a-b60d-dc96b45b04d4
+[13Apr2025 03:54:00.993] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 907b1982-352a-3c5a-b60d-dc96b45b04d4
+[13Apr2025 03:54:00.994] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player W4ndr (907b1982-352a-3c5a-b60d-dc96b45b04d4) successfully connected to voice chat
+[13Apr2025 03:54:11.303] [ForkJoinPool.commonPool-worker-3/INFO] [com.natamus.beautifiedchatserver_common_forge.data.Chat/]: 03:54 | Baeel: quizá no le asigno casi ram al mc en el launcher
+[13Apr2025 03:54:11.303] [Server thread/INFO] [com.natamus.beautifiedchatserver_common_forge.data.Chat/]: 03:54 | Baeel: quizá no le asigno casi ram al mc en el launcher
+[13Apr2025 03:54:21.002] [ForkJoinPool.commonPool-worker-3/INFO] [com.natamus.beautifiedchatserver_common_forge.data.Chat/]: 03:54 | Baeel: ola esdras
+[13Apr2025 03:54:21.002] [Server thread/INFO] [com.natamus.beautifiedchatserver_common_forge.data.Chat/]: 03:54 | Baeel: ola esdras
+[13Apr2025 03:54:23.129] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=876, y=121, z=-398} BlockPos{x=875, y=119, z=-398}
+[13Apr2025 03:54:23.179] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=876, y=121, z=-398} BlockPos{x=875, y=119, z=-398}
+[13Apr2025 03:54:23.230] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=876, y=121, z=-398} BlockPos{x=875, y=119, z=-398}
+[13Apr2025 03:54:26.982] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=882, y=123, z=-396} BlockPos{x=881, y=123, z=-394}
+[13Apr2025 03:54:27.029] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=882, y=123, z=-396} BlockPos{x=881, y=123, z=-394}
+[13Apr2025 03:54:29.879] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=885, y=121, z=-400} BlockPos{x=886, y=119, z=-400}
+[13Apr2025 03:54:29.879] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=885, y=121, z=-400} BlockPos{x=886, y=119, z=-400}
+[13Apr2025 03:54:31.014] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=887, y=121, z=-402} BlockPos{x=888, y=119, z=-403}
+[13Apr2025 03:54:37.909] [ForkJoinPool.commonPool-worker-3/INFO] [com.natamus.beautifiedchatserver_common_forge.data.Chat/]: 03:54 | Baeel: que
+[13Apr2025 03:54:37.910] [Server thread/INFO] [com.natamus.beautifiedchatserver_common_forge.data.Chat/]: 03:54 | Baeel: que
+[13Apr2025 03:54:51.210] [ForkJoinPool.commonPool-worker-3/INFO] [com.natamus.beautifiedchatserver_common_forge.data.Chat/]: 03:54 | Baeel: yo si t escucho
+[13Apr2025 03:54:51.210] [Server thread/INFO] [com.natamus.beautifiedchatserver_common_forge.data.Chat/]: 03:54 | Baeel: yo si t escucho
+[13Apr2025 03:55:43.235] [ForkJoinPool.commonPool-worker-3/INFO] [com.natamus.beautifiedchatserver_common_forge.data.Chat/]: 03:55 | Baeel: a ani le va lag
+[13Apr2025 03:55:43.235] [Server thread/INFO] [com.natamus.beautifiedchatserver_common_forge.data.Chat/]: 03:55 | Baeel: a ani le va lag
+[13Apr2025 03:56:28.077] [ForkJoinPool.commonPool-worker-3/INFO] [com.natamus.beautifiedchatserver_common_forge.data.Chat/]: 03:56 | Dazai: pasale
+[13Apr2025 03:56:28.078] [Server thread/INFO] [com.natamus.beautifiedchatserver_common_forge.data.Chat/]: 03:56 | Dazai: pasale
+[13Apr2025 03:56:30.576] [ForkJoinPool.commonPool-worker-3/INFO] [com.natamus.beautifiedchatserver_common_forge.data.Chat/]: 03:56 | Dazai: la config tuya zun
+[13Apr2025 03:56:30.577] [Server thread/INFO] [com.natamus.beautifiedchatserver_common_forge.data.Chat/]: 03:56 | Dazai: la config tuya zun

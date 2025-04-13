@@ -1,0 +1,15 @@
+{
+	id: "dc4f31cc-92cb-4f4a-842d-cfb4cdba6c53"
+	type: "party"
+	owner: "39758e4b-7544-38e4-bb2e-c0844847cefa"
+	ranks: { }
+	properties: {
+		"ftbteams:display_name": "qisso"
+		"ftbteams:description": ""
+		"ftbteams:color": "#C159FF"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

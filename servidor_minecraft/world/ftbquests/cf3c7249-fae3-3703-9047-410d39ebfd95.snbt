@@ -1,0 +1,12 @@
+{
+	version: 1
+	uuid: "cf3c7249fae337039047410d39ebfd95"
+	name: "knwy54#cf3c7249"
+	lock: false
+	rewards_blocked: false
+	task_progress: { }
+	started: { }
+	completed: { }
+	claimed_rewards: { }
+	player_data: { }
+}

@@ -10,5 +10,11 @@
     "name": "Baeel",
     "level": 4,
     "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "39758e4b-7544-38e4-bb2e-c0844847cefa",
+    "name": "Dazai",
+    "level": 4,
+    "bypassesPlayerLimit": false
   }
 ]

@@ -2,9 +2,7 @@
 	id: "39758e4b-7544-38e4-bb2e-c0844847cefa"
 	type: "player"
 	player_name: "Dazai"
-	ranks: {
-		39758e4b-7544-38e4-bb2e-c0844847cefa: "owner"
-	}
+	ranks: { }
 	properties: {
 		"ftbteams:display_name": "Dazai"
 		"ftbteams:description": ""

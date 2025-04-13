@@ -1,0 +1,12 @@
+{
+	version: 1
+	uuid: "dc4f31cc92cb4f4a842dcfb4cdba6c53"
+	name: "qisso#dc4f31cc"
+	lock: false
+	rewards_blocked: false
+	task_progress: { }
+	started: { }
+	completed: { }
+	claimed_rewards: { }
+	player_data: { }
+}

@@ -1,0 +1,17 @@
+{
+	id: "6a94e407-618d-373f-a263-06c6908c43d5"
+	type: "player"
+	player_name: "Pantective"
+	ranks: {
+		6a94e407-618d-373f-a263-06c6908c43d5: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "Pantective"
+		"ftbteams:description": ""
+		"ftbteams:color": "#ABFF59"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

@@ -1593,3 +1593,29 @@ com.google.gson.JsonSyntaxException: Unknown item id 'environmental:squid_ink_ri
 [17Apr2025 19:30:34.051] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ★ W4ndr: bungou stray dogs
 [17Apr2025 19:30:36.194] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ★ ShirouFRG: si es
 [17Apr2025 19:30:44.124] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ★ W4ndr: PEAK
+[17Apr2025 19:35:56.689] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Server] ola ya entro
+[17Apr2025 19:36:46.027] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ★ W4ndr: quien hablo?
+[17Apr2025 19:36:49.719] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ★ ShirouFRG: zun
+[17Apr2025 19:36:50.690] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ★ W4ndr: wtf
+[17Apr2025 19:36:53.228] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ★ W4ndr: ahh
+[17Apr2025 19:38:36.490] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ★ W4ndr: me regalas hierro?
+[17Apr2025 19:38:42.550] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ★ W4ndr: quiero hacer unas palas
+[17Apr2025 19:38:43.787] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ShirouFRG has made the advancement [Acquire Hardware]
+[17Apr2025 19:38:52.249] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ★ W4ndr: ty
+[17Apr2025 19:40:00.428] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=227, y=63, z=-86} BlockPos{x=228, y=62, z=-85}
+[17Apr2025 19:40:01.287] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=225, y=64, z=-84} BlockPos{x=224, y=62, z=-84}
+[17Apr2025 19:40:01.340] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=225, y=64, z=-84} BlockPos{x=224, y=62, z=-84}
+[17Apr2025 19:41:38.252] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@5ccc9ec9
+[17Apr2025 19:41:38.282] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Baeel[/127.241.192.107:49861] logged in with entity id 5148 at (268.1309933001979, 63.0, -91.1440703893879)
+[17Apr2025 19:41:38.309] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Baeel joined the game
+[17Apr2025 19:41:38.336] [Server thread/INFO] [Waila/]: Syncing config to Baeel (23ae852c-c922-3caa-b42c-37a81d0fba1c)
+[17Apr2025 19:41:38.350] [Server thread/INFO] [antiqueatlas/]: Sent markers data #-1 to player Baeel
+[17Apr2025 19:41:38.350] [Server thread/INFO] [antiqueatlas/]: Sent custom biome data to player Baeel
+[17Apr2025 19:41:38.351] [Server thread/INFO] [antiqueatlas/]: Sent custom biome data to player Baeel
+[17Apr2025 19:41:38.351] [Server thread/INFO] [antiqueatlas/]: Sent custom biome data to player Baeel
+[17Apr2025 19:41:46.764] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Baeel (18)
+[17Apr2025 19:41:46.764] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Baeel
+[17Apr2025 19:41:49.461] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ★ W4ndr: holi zun
+[17Apr2025 19:42:09.263] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 23ae852c-c922-3caa-b42c-37a81d0fba1c
+[17Apr2025 19:42:10.294] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 23ae852c-c922-3caa-b42c-37a81d0fba1c
+[17Apr2025 19:42:10.295] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Baeel (23ae852c-c922-3caa-b42c-37a81d0fba1c) successfully connected to voice chat

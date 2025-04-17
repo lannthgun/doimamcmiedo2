@@ -1535,3 +1535,81 @@ com.google.gson.JsonSyntaxException: Unknown item id 'environmental:squid_ink_ri
 [17Apr2025 00:58:50.665] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Baeel: Set the world spawn point to 214, 67, -156 [0.0]]
 [17Apr2025 00:58:55.399] [Worker-Main-10/INFO] [antiqueatlas/]: Created new marker #1"Village"@(89, 124)
 [17Apr2025 01:01:17.164] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Baeel: Set the world spawn point to 238, 67, -230 [0.0]]
+[17Apr2025 01:03:11.060] [Server thread/INFO] [antiqueatlas/]: Saving local markers data to NBT
+[17Apr2025 01:05:21.424] [spark-worker-pool-1-thread-3/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [⚡] GC monitor enabled.
+[17Apr2025 01:05:52.459] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [⚡] Tick monitor started. Before the monitor becomes fully active, the server's average tick rate will be calculated over a period of 120 ticks (approx 6 seconds).
+[17Apr2025 01:05:58.459] [spark-worker-pool-1-thread-2/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [⚡] Analysis is now complete.
+[17Apr2025 01:05:58.461] [spark-worker-pool-1-thread-2/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [⚡] > Max: 50.17ms
+[17Apr2025 01:05:58.462] [spark-worker-pool-1-thread-2/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [⚡] > Min: 49.85ms
+[17Apr2025 01:05:58.462] [spark-worker-pool-1-thread-2/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [⚡] > Average: 50ms
+[17Apr2025 01:05:58.463] [spark-worker-pool-1-thread-2/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [⚡] Starting now, any ticks with >100.0% increase in duration compared to the average will be reported.
+[17Apr2025 01:06:07.952] [spark-worker-pool-1-thread-3/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [⚡] Tick #310 included GC lasting 31 ms. (type = Young Gen)
+[17Apr2025 01:06:07.952] [spark-worker-pool-1-thread-4/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [⚡] Young Gen GC lasting 31 ms. (cause = G1 Evacuation Pause)
+  2.0 MB moved to G1 Survivor Space
+    94.0 MB → 96.0 MB
+  1.8 GB freed from G1 Eden Space
+    1.8 GB → 0 bytes (100%)
+[17Apr2025 01:07:02.855] [spark-worker-pool-1-thread-2/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [⚡] Tick #1408 included GC lasting 40 ms. (type = Young Gen)
+[17Apr2025 01:07:02.856] [spark-worker-pool-1-thread-1/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [⚡] Young Gen GC lasting 40 ms. (cause = G1 Evacuation Pause)
+  26.9 MB moved to G1 Old Gen
+    528.7 MB → 555.6 MB
+  28.0 MB freed from G1 Survivor Space
+    96.0 MB → 68.0 MB (29%)
+  1.8 GB freed from G1 Eden Space
+    1.8 GB → 0 bytes (100%)
+[17Apr2025 01:07:56.988] [spark-worker-pool-1-thread-3/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [⚡] Young Gen GC lasting 23 ms. (cause = G1 Evacuation Pause)
+  15.1 MB moved to G1 Old Gen
+    555.6 MB → 570.7 MB
+  12.0 MB freed from G1 Survivor Space
+    68.0 MB → 56.0 MB (17%)
+  1.9 GB freed from G1 Eden Space
+    1.9 GB → 0 bytes (100%)
+[17Apr2025 01:07:56.989] [spark-worker-pool-1-thread-4/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [⚡] Tick #2491 included GC lasting 23 ms. (type = Young Gen)
+[17Apr2025 01:08:39.489] [spark-worker-pool-1-thread-1/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [⚡] Tick #3341 included GC lasting 23 ms. (type = Young Gen)
+[17Apr2025 01:08:39.490] [spark-worker-pool-1-thread-2/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [⚡] Young Gen GC lasting 23 ms. (cause = G1 Evacuation Pause)
+  18.4 MB moved to G1 Old Gen
+    570.7 MB → 589.0 MB
+  10.0 MB freed from G1 Survivor Space
+    56.0 MB → 46.0 MB (17%)
+  1.9 GB freed from G1 Eden Space
+    1.9 GB → 0 bytes (100%)
+[17Apr2025 01:09:16.282] [spark-worker-pool-1-thread-4/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [⚡] Tick #4077 included GC lasting 21 ms. (type = Young Gen)
+[17Apr2025 01:09:16.284] [spark-worker-pool-1-thread-3/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [⚡] Young Gen GC lasting 21 ms. (cause = G1 Evacuation Pause)
+  1.7 MB moved to G1 Old Gen
+    589.0 MB → 590.7 MB
+  12.0 MB moved to G1 Survivor Space
+    46.0 MB → 58.0 MB
+  1.9 GB freed from G1 Eden Space
+    1.9 GB → 0 bytes (100%)
+[17Apr2025 01:09:43.131] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Baeel: Set own game mode to Survival Mode]
+[17Apr2025 01:10:01.683] [spark-worker-pool-1-thread-2/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [⚡] Tick #4985 included GC lasting 19 ms. (type = Young Gen)
+[17Apr2025 01:10:01.683] [spark-worker-pool-1-thread-1/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [⚡] Young Gen GC lasting 19 ms. (cause = G1 Evacuation Pause)
+  3.6 MB moved to G1 Old Gen
+    590.7 MB → 594.3 MB
+  4.0 MB freed from G1 Survivor Space
+    58.0 MB → 54.0 MB (6%)
+  1.9 GB freed from G1 Eden Space
+    1.9 GB → 0 bytes (100%)
+[17Apr2025 01:10:46.134] [spark-worker-pool-1-thread-3/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [⚡] Tick #5874 included GC lasting 19 ms. (type = Young Gen)
+[17Apr2025 01:10:46.134] [spark-worker-pool-1-thread-4/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [⚡] Young Gen GC lasting 19 ms. (cause = G1 Evacuation Pause)
+  3.4 MB moved to G1 Old Gen
+    594.3 MB → 597.7 MB
+  1.9 GB freed from G1 Eden Space
+    1.9 GB → 0 bytes (100%)
+[17Apr2025 01:11:32.686] [spark-worker-pool-1-thread-1/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [⚡] Tick #6805 included GC lasting 21 ms. (type = Young Gen)
+[17Apr2025 01:11:32.686] [spark-worker-pool-1-thread-2/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [⚡] Young Gen GC lasting 21 ms. (cause = G1 Evacuation Pause)
+  16.9 MB moved to G1 Old Gen
+    597.7 MB → 614.6 MB
+  16.0 MB freed from G1 Survivor Space
+    54.0 MB → 38.0 MB (29%)
+  1.9 GB freed from G1 Eden Space
+    1.9 GB → 0 bytes (100%)
+[17Apr2025 01:12:19.522] [spark-worker-pool-1-thread-4/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [⚡] Tick #7742 included GC lasting 15 ms. (type = Young Gen)
+[17Apr2025 01:12:19.523] [spark-worker-pool-1-thread-3/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [⚡] Young Gen GC lasting 15 ms. (cause = G1 Evacuation Pause)
+  3.7 MB moved to G1 Old Gen
+    614.6 MB → 618.4 MB
+  2.0 MB freed from G1 Survivor Space
+    38.0 MB → 36.0 MB (5%)
+  1.9 GB freed from G1 Eden Space
+    1.9 GB → 0 bytes (100%)
+[17Apr2025 01:12:29.238] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Baeel> a

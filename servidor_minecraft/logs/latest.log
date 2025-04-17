@@ -1542,3 +1542,64 @@ com.google.gson.JsonSyntaxException: Unknown item id 'environmental:squid_ink_ri
 [17Apr2025 03:42:19.126] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: a<--[HERE]
 [17Apr2025 03:47:20.526] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Unknown or incomplete command, see below for error
 [17Apr2025 03:47:20.537] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: a<--[HERE]
+[17Apr2025 03:56:00.477] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@32f674cd
+[17Apr2025 03:56:00.482] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: _Lunh[/127.106.195.227:44801] logged in with entity id 1305 at (246.5, 68.0, -224.5)
+[17Apr2025 03:56:00.487] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: _Lunh joined the game
+[17Apr2025 03:56:00.518] [Server thread/INFO] [Waila/]: Syncing config to _Lunh (329bf97d-af05-3d95-bf16-16112e499bd8)
+[17Apr2025 03:56:01.310] [Server thread/INFO] [antiqueatlas/]: Sent markers data #-1 to player _Lunh
+[17Apr2025 03:56:01.310] [Server thread/INFO] [antiqueatlas/]: Sent custom biome data to player _Lunh
+[17Apr2025 03:56:01.310] [Server thread/INFO] [antiqueatlas/]: Sent custom biome data to player _Lunh
+[17Apr2025 03:56:01.310] [Server thread/INFO] [antiqueatlas/]: Sent custom biome data to player _Lunh
+[17Apr2025 03:56:01.934] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of _Lunh (18)
+[17Apr2025 03:56:01.935] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to _Lunh
+[17Apr2025 03:56:09.316] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 329bf97d-af05-3d95-bf16-16112e499bd8
+[17Apr2025 03:56:10.319] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 329bf97d-af05-3d95-bf16-16112e499bd8
+[17Apr2025 03:56:10.320] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player _Lunh (329bf97d-af05-3d95-bf16-16112e499bd8) successfully connected to voice chat
+[17Apr2025 03:56:30.615] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=244, y=67, z=-223}
+[17Apr2025 03:56:30.764] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=245, y=67, z=-222}
+[17Apr2025 03:56:30.814] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=246, y=67, z=-222}
+[17Apr2025 03:56:30.964] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=247, y=67, z=-222}
+[17Apr2025 03:56:31.067] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=247, y=67, z=-221}
+[17Apr2025 03:56:35.065] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=255, y=69, z=-229} BlockPos{x=254, y=69, z=-229}
+[17Apr2025 03:56:35.114] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=255, y=69, z=-229} BlockPos{x=253, y=69, z=-229}
+[17Apr2025 03:58:26.918] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=255, y=69, z=-229} BlockPos{x=233, y=69, z=-242}
+[17Apr2025 03:58:37.180] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: _Lunh lost connection: Disconnected
+[17Apr2025 03:58:37.180] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: _Lunh left the game
+[17Apr2025 03:58:37.181] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client _Lunh
+[17Apr2025 03:59:28.027] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@1fb3d22b
+[17Apr2025 03:59:28.033] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Pantective[/127.198.131.224:33983] logged in with entity id 1655 at (240.5, 68.0, -238.5)
+[17Apr2025 03:59:28.038] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Pantective joined the game
+[17Apr2025 03:59:28.070] [Server thread/INFO] [Waila/]: Syncing config to Pantective (6a94e407-618d-373f-a263-06c6908c43d5)
+[17Apr2025 03:59:28.779] [Server thread/INFO] [antiqueatlas/]: Sent markers data #-1 to player Pantective
+[17Apr2025 03:59:28.779] [Server thread/INFO] [antiqueatlas/]: Sent custom biome data to player Pantective
+[17Apr2025 03:59:28.780] [Server thread/INFO] [antiqueatlas/]: Sent custom biome data to player Pantective
+[17Apr2025 03:59:28.780] [Server thread/INFO] [antiqueatlas/]: Sent custom biome data to player Pantective
+[17Apr2025 03:59:31.281] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Pantective (18)
+[17Apr2025 03:59:31.282] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Pantective
+[17Apr2025 03:59:43.897] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 6a94e407-618d-373f-a263-06c6908c43d5
+[17Apr2025 03:59:44.902] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 6a94e407-618d-373f-a263-06c6908c43d5
+[17Apr2025 03:59:44.903] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Pantective (6a94e407-618d-373f-a263-06c6908c43d5) successfully connected to voice chat
+[17Apr2025 03:59:45.632] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@7e299376
+[17Apr2025 03:59:45.638] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Dazai[/127.195.236.49:45431] logged in with entity id 1696 at (240.5, 67.0, -222.5)
+[17Apr2025 03:59:45.643] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Dazai joined the game
+[17Apr2025 03:59:45.678] [Server thread/INFO] [Waila/]: Syncing config to Dazai (39758e4b-7544-38e4-bb2e-c0844847cefa)
+[17Apr2025 03:59:46.495] [Server thread/INFO] [antiqueatlas/]: Sent markers data #-1 to player Dazai
+[17Apr2025 03:59:46.495] [Server thread/INFO] [antiqueatlas/]: Sent custom biome data to player Dazai
+[17Apr2025 03:59:46.496] [Server thread/INFO] [antiqueatlas/]: Sent custom biome data to player Dazai
+[17Apr2025 03:59:46.496] [Server thread/INFO] [antiqueatlas/]: Sent custom biome data to player Dazai
+[17Apr2025 03:59:47.235] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Dazai (18)
+[17Apr2025 03:59:47.235] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Dazai
+[17Apr2025 03:59:49.222] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=240, y=69, z=-238}
+[17Apr2025 03:59:54.095] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 39758e4b-7544-38e4-bb2e-c0844847cefa
+[17Apr2025 03:59:55.095] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 39758e4b-7544-38e4-bb2e-c0844847cefa
+[17Apr2025 03:59:55.096] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Dazai (39758e4b-7544-38e4-bb2e-c0844847cefa) successfully connected to voice chat
+[17Apr2025 04:00:00.058] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=248, y=67, z=-228}
+[17Apr2025 04:00:00.309] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ★ Dazai: damnn
+[17Apr2025 04:00:00.918] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=248, y=67, z=-225}
+[17Apr2025 04:00:24.434] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Server] O.O
+[17Apr2025 04:00:42.031] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Unknown or incomplete command, see below for error
+[17Apr2025 04:00:42.031] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: SAY OWO<--[HERE]
+[17Apr2025 04:00:53.086] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Server] OwO
+[17Apr2025 04:01:01.174] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ★ Dazai: barra skin
+[17Apr2025 04:01:12.484] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=228, y=68, z=-200} BlockPos{x=238, y=71, z=-243}
+[17Apr2025 04:01:13.434] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=228, y=68, z=-200} BlockPos{x=238, y=70, z=-243}

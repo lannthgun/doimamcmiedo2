@@ -4991,6 +4991,12 @@
     },
     "done": true
   },
+  "inspirations:recipes/decorations/building/rope": {
+    "criteria": {
+      "has_string": "2025-04-17 20:12:04 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/farmersdelight/light_gray_canvas_sign": {
     "criteria": {
       "has_the_recipe": "2025-04-17 19:18:03 +0000"

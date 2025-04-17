@@ -1603,3 +1603,38 @@ com.google.gson.JsonSyntaxException: Unknown item id 'environmental:squid_ink_ri
 [17Apr2025 04:01:01.174] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ★ Dazai: barra skin
 [17Apr2025 04:01:12.484] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=228, y=68, z=-200} BlockPos{x=238, y=71, z=-243}
 [17Apr2025 04:01:13.434] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=228, y=68, z=-200} BlockPos{x=238, y=70, z=-243}
+[17Apr2025 04:01:47.240] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Pantective has made the advancement [Sweet Dreams]
+[17Apr2025 04:01:48.937] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Dazai has made the advancement [Sweet Dreams]
+[17Apr2025 04:02:00.642] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@dbb24ec
+[17Apr2025 04:02:00.675] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Baeel[/127.241.192.107:58805] logged in with entity id 2042 at (240.4761863448015, 70.0, -243.66644780079827)
+[17Apr2025 04:02:00.700] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Baeel joined the game
+[17Apr2025 04:02:00.728] [Server thread/INFO] [Waila/]: Syncing config to Baeel (23ae852c-c922-3caa-b42c-37a81d0fba1c)
+[17Apr2025 04:02:00.741] [Server thread/INFO] [antiqueatlas/]: Sent markers data #-1 to player Baeel
+[17Apr2025 04:02:00.741] [Server thread/INFO] [antiqueatlas/]: Sent custom biome data to player Baeel
+[17Apr2025 04:02:00.741] [Server thread/INFO] [antiqueatlas/]: Sent custom biome data to player Baeel
+[17Apr2025 04:02:00.741] [Server thread/INFO] [antiqueatlas/]: Sent custom biome data to player Baeel
+[17Apr2025 04:02:06.600] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Baeel (18)
+[17Apr2025 04:02:06.600] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Baeel
+[17Apr2025 04:02:22.669] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 23ae852c-c922-3caa-b42c-37a81d0fba1c
+[17Apr2025 04:02:23.670] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 23ae852c-c922-3caa-b42c-37a81d0fba1c
+[17Apr2025 04:02:23.670] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Baeel (23ae852c-c922-3caa-b42c-37a81d0fba1c) successfully connected to voice chat
+[17Apr2025 04:03:26.421] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ★ Baeel: ol
+[17Apr2025 04:03:28.921] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ★ Dazai: olii
+[17Apr2025 04:03:31.157] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ★ Pantective: olaaa
+[17Apr2025 04:03:35.000] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ★ Pantective: zun ven vc
+[17Apr2025 04:03:37.418] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ★ Dazai: zun pq
+[17Apr2025 04:03:38.483] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ★ Dazai: tngo
+[17Apr2025 04:03:39.860] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ★ Dazai: una capa
+[17Apr2025 04:03:40.896] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ★ Dazai: otaku
+[17Apr2025 04:03:47.940] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ★ Baeel: JAJSKJAKJJAKJA
+[17Apr2025 04:03:51.508] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ★ Dazai: qglovo
+[17Apr2025 04:03:53.383] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ★ Baeel: Q
+[17Apr2025 04:03:55.317] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ★ Dazai: JKSDAJKASD
+[17Apr2025 04:07:04.715] [Worker-Main-10/INFO] [antiqueatlas/]: Created new marker #2"Village"@(101, 120)
+[17Apr2025 04:07:06.085] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ★ Baeel: esdras aún no soluciona?
+[17Apr2025 04:07:09.142] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ★ Dazai: no
+[17Apr2025 04:07:16.002] [Server thread/INFO] [antiqueatlas/]: Saving local markers data to NBT
+[17Apr2025 04:07:20.072] [Worker-Main-28/WARN] [ModernFix/]: The namespace repurposed_structures contains an outdated structure file, which can cause worldgen lag. Please view debug.log for the full filename, determine which mod provides the structure, and report to the mod/datapack author, including the debug log.
+[17Apr2025 04:07:21.521] [Worker-Main-28/WARN] [ModernFix/]: The namespace environmental contains an outdated structure file, which can cause worldgen lag. Please view debug.log for the full filename, determine which mod provides the structure, and report to the mod/datapack author, including the debug log.
+[17Apr2025 04:07:21.534] [Worker-Main-28/WARN] [ModernFix/]: The namespace farmersdelight contains an outdated structure file, which can cause worldgen lag. Please view debug.log for the full filename, determine which mod provides the structure, and report to the mod/datapack author, including the debug log.
+[17Apr2025 04:07:21.543] [Worker-Main-28/WARN] [ModernFix/]: The namespace buzzier_bees contains an outdated structure file, which can cause worldgen lag. Please view debug.log for the full filename, determine which mod provides the structure, and report to the mod/datapack author, including the debug log.

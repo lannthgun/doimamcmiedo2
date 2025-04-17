@@ -10312,3 +10312,11 @@ com.google.gson.JsonSyntaxException: Unknown item id 'environmental:squid_ink_ri
 [17Apr2025 03:37:15.888] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
 [17Apr2025 03:38:39.876] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Unknown or incomplete command, see below for error
 [17Apr2025 03:38:39.877] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: a<--[HERE]
+[17Apr2025 03:42:15.878] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[17Apr2025 03:42:15.886] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[17Apr2025 03:42:19.126] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Unknown or incomplete command, see below for error
+[17Apr2025 03:42:19.126] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: a<--[HERE]
+[17Apr2025 03:47:15.877] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[17Apr2025 03:47:15.888] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[17Apr2025 03:47:20.526] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Unknown or incomplete command, see below for error
+[17Apr2025 03:47:20.537] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: a<--[HERE]

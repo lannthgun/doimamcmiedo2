@@ -1638,3 +1638,25 @@ com.google.gson.JsonSyntaxException: Unknown item id 'environmental:squid_ink_ri
 [17Apr2025 04:07:21.521] [Worker-Main-28/WARN] [ModernFix/]: The namespace environmental contains an outdated structure file, which can cause worldgen lag. Please view debug.log for the full filename, determine which mod provides the structure, and report to the mod/datapack author, including the debug log.
 [17Apr2025 04:07:21.534] [Worker-Main-28/WARN] [ModernFix/]: The namespace farmersdelight contains an outdated structure file, which can cause worldgen lag. Please view debug.log for the full filename, determine which mod provides the structure, and report to the mod/datapack author, including the debug log.
 [17Apr2025 04:07:21.543] [Worker-Main-28/WARN] [ModernFix/]: The namespace buzzier_bees contains an outdated structure file, which can cause worldgen lag. Please view debug.log for the full filename, determine which mod provides the structure, and report to the mod/datapack author, including the debug log.
+[17Apr2025 04:12:02.644] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ★ Baeel: voy a reiniciar un momento amigos, a esdras no le deja
+[17Apr2025 04:12:12.436] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Pantective has made the advancement [Mine? Mine? Mine?]
+[17Apr2025 04:12:29.937] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Baeel lost connection: Disconnected
+[17Apr2025 04:12:29.938] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Baeel left the game
+[17Apr2025 04:12:29.938] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Baeel
+[17Apr2025 04:12:30.982] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Dazai has made the advancement [Mine? Mine? Mine?]
+[17Apr2025 04:12:44.393] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Stopping the server
+[17Apr2025 04:12:44.426] [Server thread/INFO] [ModernFix/]: Shutting down locating executor service
+[17Apr2025 04:12:44.429] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[17Apr2025 04:12:44.430] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[17Apr2025 04:12:44.503] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Pantective lost connection: Internal Exception: java.lang.StackOverflowError
+[17Apr2025 04:12:44.503] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Pantective left the game
+[17Apr2025 04:12:44.536] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[17Apr2025 04:12:44.536] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[17Apr2025 04:12:46.914] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[17Apr2025 04:12:46.915] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[17Apr2025 04:12:46.915] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[17Apr2025 04:12:46.915] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[17Apr2025 04:12:46.916] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[17Apr2025 04:12:46.954] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[17Apr2025 04:12:46.980] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[17Apr2025 04:12:46.981] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved

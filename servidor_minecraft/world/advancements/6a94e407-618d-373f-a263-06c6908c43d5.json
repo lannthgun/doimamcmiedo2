@@ -1781,6 +1781,12 @@
     },
     "done": true
   },
+  "atmospheric:adventure/dunes_pricks": {
+    "criteria": {
+      "barrel_cactus": "2025-04-17 04:07:35 +0000"
+    },
+    "done": false
+  },
   "inspirations:recipes/building_blocks/cauldron/bottle/wool/yellow": {
     "criteria": {
       "has_the_recipe": "2025-04-17 03:59:28 +0000"
@@ -5309,6 +5315,12 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/seagull_steal": {
+    "criteria": {
+      "ex": "2025-04-17 04:12:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/diorite_wall": {
     "criteria": {
       "has_the_recipe": "2025-04-17 03:59:28 +0000"
@@ -5368,6 +5380,8 @@
       "minecraft:beach": "2025-04-17 04:02:30 +0000",
       "minecraft:river": "2025-04-17 04:04:06 +0000",
       "minecraft:lukewarm_ocean": "2025-04-17 04:02:35 +0000",
+      "atmospheric:dunes_hills": "2025-04-17 04:07:19 +0000",
+      "minecraft:desert": "2025-04-17 04:09:10 +0000",
       "minecraft:savanna": "2025-04-17 04:04:13 +0000",
       "minecraft:plains": "2025-04-17 03:59:28 +0000"
     },

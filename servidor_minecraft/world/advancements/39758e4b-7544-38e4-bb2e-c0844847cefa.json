@@ -161,6 +161,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/ladder": {
+    "criteria": {
+      "has_stick": "2025-04-17 04:11:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/red_nether_brick_wall": {
     "criteria": {
       "has_the_recipe": "2025-04-17 03:59:45 +0000"
@@ -3767,6 +3773,12 @@
     },
     "done": true
   },
+  "decorative_blocks:recipes/decorations/lattice": {
+    "criteria": {
+      "has_stick": "2025-04-17 04:11:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/pink_stained_glass": {
     "criteria": {
       "has_the_recipe": "2025-04-17 03:59:46 +0000"
@@ -3986,6 +3998,12 @@
   "farmersdelight:recipes/farmersdelight/pie_crust": {
     "criteria": {
       "has_the_recipe": "2025-04-17 03:59:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/chest": {
+    "criteria": {
+      "has_lots_of_items": "2025-04-17 04:09:28 +0000"
     },
     "done": true
   },
@@ -5231,6 +5249,12 @@
     },
     "done": true
   },
+  "paraglider:recipes/paraglider/paraglider": {
+    "criteria": {
+      "has_stick": "2025-04-17 04:11:26 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/item_shelf": {
     "criteria": {
       "has_the_recipe": "2025-04-17 03:59:46 +0000"
@@ -5339,6 +5363,12 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/seagull_steal": {
+    "criteria": {
+      "ex": "2025-04-17 04:12:30 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/diorite_wall": {
     "criteria": {
       "has_the_recipe": "2025-04-17 03:59:46 +0000"
@@ -5398,6 +5428,8 @@
       "minecraft:beach": "2025-04-17 04:02:36 +0000",
       "minecraft:river": "2025-04-17 04:05:09 +0000",
       "minecraft:lukewarm_ocean": "2025-04-17 04:02:48 +0000",
+      "atmospheric:dunes_hills": "2025-04-17 04:07:19 +0000",
+      "minecraft:desert": "2025-04-17 04:10:26 +0000",
       "minecraft:savanna": "2025-04-17 04:05:12 +0000",
       "minecraft:plains": "2025-04-17 03:59:46 +0000"
     },
@@ -5868,6 +5900,12 @@
   "farmersdelight:recipes/farmersdelight/white_canvas_sign": {
     "criteria": {
       "has_the_recipe": "2025-04-17 03:59:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/green_dye": {
+    "criteria": {
+      "has_cactus": "2025-04-17 04:10:30 +0000"
     },
     "done": true
   },

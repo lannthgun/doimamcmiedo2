@@ -5720,11 +5720,13 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:jungle_edge": "2025-04-17 20:37:14 +0000",
       "minecraft:beach": "2025-04-17 04:57:25 +0000",
       "minecraft:river": "2025-04-17 05:22:57 +0000",
       "atmospheric:dunes": "2025-04-17 05:20:54 +0000",
       "atmospheric:dunes_hills": "2025-04-17 05:00:00 +0000",
       "minecraft:desert": "2025-04-17 05:24:35 +0000",
+      "minecraft:jungle": "2025-04-17 20:36:43 +0000",
       "minecraft:plains": "2025-04-17 04:43:27 +0000"
     },
     "done": false

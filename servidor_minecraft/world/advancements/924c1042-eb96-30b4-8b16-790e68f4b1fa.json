@@ -3455,6 +3455,12 @@
     },
     "done": true
   },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2025-04-17 20:37:28 +0000"
+    },
+    "done": true
+  },
   "crucial:crucial/get_all_saplings": {
     "criteria": {
       "oak_sapling": "2025-04-17 19:40:11 +0000"
@@ -4556,6 +4562,12 @@
   "minecraft:recipes/building_blocks/sandstone": {
     "criteria": {
       "has_the_recipe": "2025-04-17 19:18:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2025-04-17 20:32:54 +0000"
     },
     "done": true
   },

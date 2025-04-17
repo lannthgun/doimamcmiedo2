@@ -1798,3 +1798,105 @@ com.google.gson.JsonSyntaxException: Unknown item id 'environmental:squid_ink_ri
 [17Apr2025 20:32:10.048] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: VALIENTE (vehicle of ShirouFRG) moved wrongly! 0.6552481555464453
 [17Apr2025 20:32:17.604] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Baeel: Set display slot list to show objective player]
 [17Apr2025 20:32:54.655] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ShirouFRG has made the advancement [Sweet Dreams]
+[17Apr2025 20:33:25.500] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: VALIENTE (vehicle of ShirouFRG) moved wrongly! 0.8987832017082553
+[17Apr2025 20:33:25.505] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: VALIENTE (vehicle of ShirouFRG) moved wrongly! 1.8591421139512079
+[17Apr2025 20:33:25.566] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: VALIENTE (vehicle of ShirouFRG) moved wrongly! 2.778664161904345
+[17Apr2025 20:33:25.639] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: VALIENTE (vehicle of ShirouFRG) moved wrongly! 3.6691262435731744
+[17Apr2025 20:33:47.410] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ★ Baeel: ves los corazones en el tab dazai?
+[17Apr2025 20:33:47.710] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ★ W4ndr: hoa
+[17Apr2025 20:33:52.850] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ★ Baeel: y tu esdras
+[17Apr2025 20:33:55.992] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ★ ShirouFRG: si
+[17Apr2025 20:33:56.655] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ★ W4ndr: yo q
+[17Apr2025 20:33:59.160] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ★ Baeel: pro
+[17Apr2025 20:34:17.100] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ★ W4ndr: que
+[17Apr2025 20:34:31.112] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ★ Baeel: ahora la vida de los doimas sale en el tab
+[17Apr2025 20:34:31.348] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ★ W4ndr: porque dazai no tiene corazones?
+[17Apr2025 20:34:36.094] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ★ W4ndr: full creativo
+[17Apr2025 20:34:36.115] [Worker-Main-1/WARN] [ModernFix/]: The namespace dungeons_plus contains an outdated structure file, which can cause worldgen lag. Please view debug.log for the full filename, determine which mod provides the structure, and report to the mod/datapack author, including the debug log.
+[17Apr2025 20:34:39.848] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ★ ShirouFRG: qdic
+[17Apr2025 20:34:40.444] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ★ Baeel: pq no se ha hecho daño
+[17Apr2025 20:34:45.458] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Baeel: Teleported Baeel to ShirouFRG]
+[17Apr2025 20:35:09.355] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ★ Baeel: q hace dazai en la guajira
+[17Apr2025 20:35:13.166] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ★ ShirouFRG: KJDSAJKDAS
+[17Apr2025 20:35:13.569] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@c87d340
+[17Apr2025 20:35:13.602] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: norano[/127.138.209.25:35807] logged in with entity id 17720 at (141.56921990865476, 70.0, 106.9526549181676)
+[17Apr2025 20:35:13.610] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: norano joined the game
+[17Apr2025 20:35:13.627] [Server thread/INFO] [Waila/]: Syncing config to norano (3ef7a5bc-3549-306c-b521-fcffcf8f236d)
+[17Apr2025 20:35:13.640] [Server thread/INFO] [antiqueatlas/]: Sent markers data #-1 to player norano
+[17Apr2025 20:35:13.641] [Server thread/INFO] [antiqueatlas/]: Sent custom biome data to player norano
+[17Apr2025 20:35:13.641] [Server thread/INFO] [antiqueatlas/]: Sent custom biome data to player norano
+[17Apr2025 20:35:13.641] [Server thread/INFO] [antiqueatlas/]: Sent custom biome data to player norano
+[17Apr2025 20:35:17.316] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ★ Baeel: wtfff
+[17Apr2025 20:35:18.256] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of norano (18)
+[17Apr2025 20:35:18.257] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to norano
+[17Apr2025 20:35:20.166] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: VALIENTE (vehicle of ShirouFRG) moved wrongly! 0.9483788291917108
+[17Apr2025 20:35:20.176] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: VALIENTE (vehicle of ShirouFRG) moved wrongly! 1.9169415866988402
+[17Apr2025 20:35:20.222] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: VALIENTE (vehicle of ShirouFRG) moved wrongly! 2.8855021865600747
+[17Apr2025 20:35:22.662] [Worker-Main-2/INFO] [antiqueatlas/]: Created new marker #6"Village"@(-756, -403)
+[17Apr2025 20:35:26.205] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ★ ShirouFRG: wtfff
+[17Apr2025 20:35:28.527] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ★ Baeel: noranax aparece y ya tiene 5 coras
+[17Apr2025 20:35:47.072] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 3ef7a5bc-3549-306c-b521-fcffcf8f236d
+[17Apr2025 20:35:48.074] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 3ef7a5bc-3549-306c-b521-fcffcf8f236d
+[17Apr2025 20:35:48.074] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player norano (3ef7a5bc-3549-306c-b521-fcffcf8f236d) successfully connected to voice chat
+[17Apr2025 20:35:59.105] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ★ norano: DONDE ESTA
+[17Apr2025 20:36:05.353] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ★ ShirouFRG: WTFFF NORANAX
+[17Apr2025 20:36:06.209] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ★ norano: LAYUAC
+[17Apr2025 20:36:09.509] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ★ norano: LAYUCA
+[17Apr2025 20:36:20.662] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ★ Baeel: dqloco
+[17Apr2025 20:36:30.352] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ★ norano: LAYUCA
+[17Apr2025 20:36:43.504] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Baeel: Teleported norano to Baeel]
+[17Apr2025 20:36:52.221] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ★ norano: QUE
+[17Apr2025 20:37:00.957] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ★ norano: xdd
+[17Apr2025 20:37:01.962] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ★ norano: XDDD
+[17Apr2025 20:37:03.320] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ★ norano: KJASJKAJKSA
+[17Apr2025 20:37:10.410] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ★ norano: ok aqui me quedo voy a ahcer mi casa aqui
+[17Apr2025 20:37:16.632] [Server thread/INFO] [antiqueatlas/]: Saving local markers data to NBT
+[17Apr2025 20:37:16.971] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ★ Baeel: JAKSJAKJKJA
+[17Apr2025 20:37:28.689] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ShirouFRG has made the advancement [Ice Bucket Challenge]
+[17Apr2025 20:37:37.822] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ★ Baeel: TIENE UN PALO EN LAMANO EL MONO
+[17Apr2025 20:37:45.551] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ★ Baeel: este es el lider
+[17Apr2025 20:37:50.701] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: VALIENTE (vehicle of ShirouFRG) moved wrongly! 0.49710317243579993
+[17Apr2025 20:37:50.753] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: VALIENTE (vehicle of ShirouFRG) moved wrongly! 1.4802420706319026
+[17Apr2025 20:37:50.807] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: VALIENTE (vehicle of ShirouFRG) moved wrongly! 2.4637598041543924
+[17Apr2025 20:37:56.968] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ★ Baeel: wtf
+[17Apr2025 20:37:58.053] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ★ ShirouFRG: pasen las coords
+[17Apr2025 20:37:58.976] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ★ norano: no hay gorilas
+[17Apr2025 20:37:59.376] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ★ Baeel: se sentó
+[17Apr2025 20:38:00.599] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ★ ShirouFRG: d lacasa meperdi
+[17Apr2025 20:38:06.806] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ★ Baeel: tp a esdras
+[17Apr2025 20:38:12.048] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ★ ShirouFRG: nono no tp
+[17Apr2025 20:38:14.651] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ★ ShirouFRG: tngo a valient
+[17Apr2025 20:38:21.550] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ★ Baeel: creo q va a ser necesario el mod del minimapa
+[17Apr2025 20:38:30.001] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ★ Baeel: yo tampoco estoy en casa ando en la jungla
+[17Apr2025 20:38:38.950] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ★ ShirouFRG: esdraws pasa
+[17Apr2025 20:38:40.601] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ★ ShirouFRG: coords
+[17Apr2025 20:38:41.450] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ★ ShirouFRG: porfa
+[17Apr2025 20:39:01.701] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: VALIENTE (vehicle of ShirouFRG) moved wrongly! 0.45793762911580416
+[17Apr2025 20:39:01.749] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: VALIENTE (vehicle of ShirouFRG) moved wrongly! 1.16015539704199
+[17Apr2025 20:39:01.806] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: VALIENTE (vehicle of ShirouFRG) moved wrongly! 1.992690985399463
+[17Apr2025 20:39:01.849] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: VALIENTE (vehicle of ShirouFRG) moved wrongly! 2.894121415760651
+[17Apr2025 20:39:07.440] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: norano was slain by Chimpanzee
+[17Apr2025 20:39:14.619] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ★ norano: queria quitar el cesped
+[17Apr2025 20:39:21.113] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Baeel: Added tag 'hola' to norano]
+[17Apr2025 20:39:36.564] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ★ W4ndr: hola volvi
+[17Apr2025 20:39:43.707] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ★ Baeel: pasale coords a dazai
+[17Apr2025 20:40:34.918] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 924c1042-eb96-30b4-8b16-790e68f4b1fa timed out
+[17Apr2025 20:40:34.918] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player ShirouFRG
+[17Apr2025 20:40:34.919] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to ShirouFRG
+[17Apr2025 20:40:41.113] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ★ Baeel: dond estas nora
+[17Apr2025 20:40:53.302] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ★ norano: con los monos
+[17Apr2025 20:40:54.397] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: ShirouFRG lost connection: Disconnected
+[17Apr2025 20:40:54.398] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ShirouFRG left the game
+[17Apr2025 20:40:54.398] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client ShirouFRG
+[17Apr2025 20:41:11.395] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ★ W4ndr: 234.813/63.0000/-84.231
+[17Apr2025 20:41:14.297] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ★ W4ndr: ah
+[17Apr2025 20:41:16.361] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ★ W4ndr: se fue
+[17Apr2025 20:41:19.387] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: norano was slain by Chimpanzee
+[17Apr2025 20:41:24.724] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ★ Baeel: nooo
+[17Apr2025 20:41:26.254] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ★ W4ndr: ?
+[17Apr2025 20:43:07.615] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Baeel: Teleported Baeel to W4ndr]
+[17Apr2025 20:43:13.125] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ★ W4ndr: holi
+[17Apr2025 20:43:18.405] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ★ Baeel: dond estas...
+[17Apr2025 20:43:26.692] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ★ W4ndr: cerca de mi casa..
+[17Apr2025 20:43:28.655] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ★ W4ndr: nomas sal
+[17Apr2025 20:43:31.096] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ★ W4ndr: por ahi

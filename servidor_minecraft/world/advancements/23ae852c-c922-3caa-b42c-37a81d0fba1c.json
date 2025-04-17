@@ -1175,6 +1175,12 @@
     },
     "done": true
   },
+  "inspirations:recipes/decorations/building/bookshelves/normal": {
+    "criteria": {
+      "has_book": "2025-04-17 03:29:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/netherite_chestplate_smithing": {
     "criteria": {
       "has_the_recipe": "2025-04-17 00:54:40 +0000"
@@ -1250,6 +1256,12 @@
   "minecraft:recipes/decorations/cyan_banner": {
     "criteria": {
       "has_the_recipe": "2025-04-17 00:54:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bookshelf": {
+    "criteria": {
+      "has_book": "2025-04-17 03:29:25 +0000"
     },
     "done": true
   },
@@ -3107,6 +3119,12 @@
     },
     "done": true
   },
+  "farmersdelight:main/get_fd_seed": {
+    "criteria": {
+      "tomato_seeds": "2025-04-17 03:29:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/blue_concrete_powder": {
     "criteria": {
       "has_the_recipe": "2025-04-17 00:54:39 +0000"
@@ -3905,6 +3923,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/chest": {
+    "criteria": {
+      "has_lots_of_items": "2025-04-17 03:29:25 +0000"
+    },
+    "done": true
+  },
   "inspirations:recipes/building_blocks/cauldron/bottle/concrete_powder/green": {
     "criteria": {
       "has_the_recipe": "2025-04-17 00:54:40 +0000"
@@ -3986,6 +4010,12 @@
   "minecraft:recipes/building_blocks/mossy_cobblestone_slab_from_mossy_cobblestone_stonecutting": {
     "criteria": {
       "has_the_recipe": "2025-04-17 00:54:39 +0000"
+    },
+    "done": true
+  },
+  "inspirations:recipes/decorations/building/bookshelves/tomes": {
+    "criteria": {
+      "has_book": "2025-04-17 03:29:25 +0000"
     },
     "done": true
   },
@@ -4238,6 +4268,12 @@
   "minecraft:recipes/building_blocks/stripped_birch_wood": {
     "criteria": {
       "has_the_recipe": "2025-04-17 00:54:39 +0000"
+    },
+    "done": true
+  },
+  "inspirations:recipes/decorations/building/bookshelves/ancient": {
+    "criteria": {
+      "has_book": "2025-04-17 03:29:25 +0000"
     },
     "done": true
   },
@@ -4823,6 +4859,12 @@
     },
     "done": true
   },
+  "inspirations:recipes/decorations/building/rope": {
+    "criteria": {
+      "has_string": "2025-04-17 03:29:15 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/farmersdelight/light_gray_canvas_sign": {
     "criteria": {
       "has_the_recipe": "2025-04-17 00:54:40 +0000"
@@ -5243,6 +5285,12 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/seagull_steal": {
+    "criteria": {
+      "ex": "2025-04-17 03:30:07 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/diorite_wall": {
     "criteria": {
       "has_the_recipe": "2025-04-17 00:54:40 +0000"
@@ -5604,6 +5652,12 @@
   "minecraft:recipes/misc/diamond_from_blasting": {
     "criteria": {
       "has_the_recipe": "2025-04-17 00:54:39 +0000"
+    },
+    "done": true
+  },
+  "inspirations:recipes/decorations/building/bookshelves/rainbow_rbg": {
+    "criteria": {
+      "has_book": "2025-04-17 03:29:25 +0000"
     },
     "done": true
   },
@@ -6003,6 +6057,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "bread": "2025-04-17 03:29:39 +0000"
+    },
+    "done": false
+  },
   "inspirations:recipes/decorations/cauldron/bottle/carpet/light_blue": {
     "criteria": {
       "has_the_recipe": "2025-04-17 00:54:40 +0000"
@@ -6213,6 +6273,12 @@
     },
     "done": true
   },
+  "inspirations:recipes/decorations/building/bookshelves/rainbow_grb": {
+    "criteria": {
+      "has_book": "2025-04-17 03:29:25 +0000"
+    },
+    "done": true
+  },
   "decorative_blocks_abnormals:recipes/rosewood_palisade": {
     "criteria": {
       "has_the_recipe": "2025-04-17 00:54:39 +0000"
@@ -6285,6 +6351,12 @@
     },
     "done": true
   },
+  "inspirations:recipes/decorations/building/bookshelves/rainbow_rgb": {
+    "criteria": {
+      "has_book": "2025-04-17 03:29:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/red_nether_bricks": {
     "criteria": {
       "has_the_recipe": "2025-04-17 00:54:39 +0000"
@@ -6318,6 +6390,12 @@
   "minecraft:recipes/decorations/cyan_carpet": {
     "criteria": {
       "has_the_recipe": "2025-04-17 00:54:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2025-04-17 03:29:39 +0000"
     },
     "done": true
   },

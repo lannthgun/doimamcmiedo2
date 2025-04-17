@@ -10302,3 +10302,13 @@ com.google.gson.JsonSyntaxException: Unknown item id 'environmental:squid_ink_ri
 [17Apr2025 03:30:48.398] [spark-worker-pool-1-thread-1/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [⚡] Tick #2305 included GC lasting 63 ms. (type = Young Gen)
 [17Apr2025 03:30:54.481] [spark-worker-pool-1-thread-3/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [⚡] Tick monitor disabled.
 [17Apr2025 03:31:07.294] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Baeel: Set own game mode to Creative Mode]
+[17Apr2025 03:32:15.928] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[17Apr2025 03:32:15.941] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[17Apr2025 03:33:15.684] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Baeel lost connection: Disconnected
+[17Apr2025 03:33:15.684] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Baeel left the game
+[17Apr2025 03:33:15.686] [Server thread/DEBUG] [voicechat/]: [voicechat] Removing state of Baeel
+[17Apr2025 03:33:15.686] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Baeel
+[17Apr2025 03:37:15.878] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[17Apr2025 03:37:15.888] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[17Apr2025 03:38:39.876] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Unknown or incomplete command, see below for error
+[17Apr2025 03:38:39.877] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: a<--[HERE]

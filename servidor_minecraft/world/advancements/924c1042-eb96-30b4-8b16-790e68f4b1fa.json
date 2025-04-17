@@ -3209,6 +3209,12 @@
     },
     "done": true
   },
+  "farmersdelight:main/get_fd_seed": {
+    "criteria": {
+      "cabbage_seeds": "2025-04-17 19:47:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/blue_concrete_powder": {
     "criteria": {
       "has_the_recipe": "2025-04-17 19:18:03 +0000"
@@ -6152,7 +6158,8 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
-      "melon_slice": "2025-04-17 19:34:11 +0000"
+      "melon_slice": "2025-04-17 19:34:11 +0000",
+      "carrot": "2025-04-17 19:49:44 +0000"
     },
     "done": false
   },
@@ -6869,6 +6876,12 @@
       "has_the_recipe": "2025-04-17 19:18:03 +0000"
     },
     "done": true
+  },
+  "farmersdelight:main/plant_all_crops": {
+    "criteria": {
+      "carrot": "2025-04-17 19:49:31 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/misc/paper": {
     "criteria": {

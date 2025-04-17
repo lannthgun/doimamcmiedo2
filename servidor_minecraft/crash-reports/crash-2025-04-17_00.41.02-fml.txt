@@ -1,0 +1,325 @@
+---- Minecraft Crash Report ----
+// You should try our sister game, Minceraft!
+
+Time: 4/17/25, 12:41 AM
+Description: Mod loading error has occurred
+
+java.lang.Exception: Mod Loading has failed
+	at net.minecraftforge.fml.CrashReportExtender.dumpModLoadingCrashReport(CrashReportExtender.java:71) ~[forge:?] {re:classloading}
+	at net.minecraftforge.fml.server.ServerModLoader.load(ServerModLoader.java:37) ~[forge:?] {re:classloading}
+	at net.minecraft.server.Main.main(Main.java:95) ~[?:?] {re:classloading,re:mixin,pl:mixin:A}
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?] {}
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:?] {}
+	at jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?] {}
+	at java.lang.reflect.Method.invoke(Method.java:566) ~[?:?] {}
+	at net.minecraftforge.fml.loading.FMLServerLaunchProvider.lambda$launchService$0(FMLServerLaunchProvider.java:37) ~[forge-1.16.5-36.2.42.jar:36.2] {}
+	at cpw.mods.modlauncher.LaunchServiceHandlerDecorator.launch(LaunchServiceHandlerDecorator.java:37) [modlauncher-8.1.3.jar:?] {}
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:54) [modlauncher-8.1.3.jar:?] {}
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:72) [modlauncher-8.1.3.jar:?] {}
+	at cpw.mods.modlauncher.Launcher.run(Launcher.java:82) [modlauncher-8.1.3.jar:?] {re:classloading}
+	at cpw.mods.modlauncher.Launcher.main(Launcher.java:66) [modlauncher-8.1.3.jar:?] {re:classloading}
+	at net.minecraftforge.server.ServerMain$Runner.runLauncher(ServerMain.java:49) [forge-1.16.5-36.2.42.jar:?] {}
+	at net.minecraftforge.server.ServerMain$Runner.access$100(ServerMain.java:46) [forge-1.16.5-36.2.42.jar:?] {}
+	at net.minecraftforge.server.ServerMain.main(ServerMain.java:43) [forge-1.16.5-36.2.42.jar:?] {}
+
+
+A detailed walkthrough of the error, its code path and all known details is as follows:
+---------------------------------------------------------------------------------------
+
+-- Head --
+Thread: main
+Stacktrace:
+	at net.minecraftforge.fml.loading.RuntimeDistCleaner.processClassWithFlags(RuntimeDistCleaner.java:57) ~[forge-1.16.5-36.2.42.jar:36.2] {}
+Mixins in Heaven: None found
+-- MOD nebs --
+Details:
+	Mod File: NekosEnchantedBooks-1.16-1.7.0.jar
+	Failure message: Neko’s Enchanted Books (nebs) has failed to load correctly
+		java.lang.RuntimeException: Attempted to load class net/minecraft/client/world/ClientWorld for invalid dist DEDICATED_SERVER
+	Mod Version: 1.7.0
+	Mod Issue URL: NOT PROVIDED
+	Exception message: java.lang.RuntimeException: Attempted to load class net/minecraft/client/world/ClientWorld for invalid dist DEDICATED_SERVER
+Stacktrace:
+	at net.minecraftforge.fml.loading.RuntimeDistCleaner.processClassWithFlags(RuntimeDistCleaner.java:57) ~[forge-1.16.5-36.2.42.jar:36.2] {}
+	at cpw.mods.modlauncher.LaunchPluginHandler.offerClassNodeToPlugins(LaunchPluginHandler.java:85) ~[modlauncher-8.1.3.jar:?] {}
+	at cpw.mods.modlauncher.ClassTransformer.transform(ClassTransformer.java:120) ~[modlauncher-8.1.3.jar:?] {}
+	at cpw.mods.modlauncher.TransformingClassLoader$DelegatedClassLoader.findClass(TransformingClassLoader.java:265) ~[modlauncher-8.1.3.jar:?] {}
+	at cpw.mods.modlauncher.TransformingClassLoader.loadClass(TransformingClassLoader.java:136) ~[modlauncher-8.1.3.jar:?] {re:classloading}
+	at cpw.mods.modlauncher.TransformingClassLoader.loadClass(TransformingClassLoader.java:98) ~[modlauncher-8.1.3.jar:?] {re:classloading}
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:527) ~[?:?] {}
+	at java.lang.Class.getDeclaredMethods0(Native Method) ~[?:?] {}
+	at java.lang.Class.privateGetDeclaredMethods(Class.java:3166) ~[?:?] {}
+	at java.lang.Class.getDeclaredMethod(Class.java:2473) ~[?:?] {}
+	at net.minecraftforge.eventbus.EventBus.getDeclMethod(EventBus.java:83) ~[eventbus-4.0.0.jar:?] {}
+	at net.minecraftforge.eventbus.EventBus.lambda$null$4(EventBus.java:95) ~[eventbus-4.0.0.jar:?] {}
+	at java.util.stream.ReferencePipeline$3$1.accept(ReferencePipeline.java:195) ~[?:?] {}
+	at java.util.HashMap$KeySpliterator.tryAdvance(HashMap.java:1642) ~[?:?] {}
+	at java.util.stream.ReferencePipeline.forEachWithCancel(ReferencePipeline.java:127) ~[?:?] {}
+	at java.util.stream.AbstractPipeline.copyIntoWithCancel(AbstractPipeline.java:502) ~[?:?] {}
+	at java.util.stream.AbstractPipeline.copyInto(AbstractPipeline.java:488) ~[?:?] {}
+	at java.util.stream.AbstractPipeline.wrapAndCopyInto(AbstractPipeline.java:474) ~[?:?] {}
+	at java.util.stream.FindOps$FindOp.evaluateSequential(FindOps.java:150) ~[?:?] {}
+	at java.util.stream.AbstractPipeline.evaluate(AbstractPipeline.java:234) ~[?:?] {}
+	at java.util.stream.ReferencePipeline.findFirst(ReferencePipeline.java:543) ~[?:?] {}
+	at net.minecraftforge.eventbus.EventBus.lambda$registerObject$7(EventBus.java:97) ~[eventbus-4.0.0.jar:?] {}
+	at java.util.stream.ForEachOps$ForEachOp$OfRef.accept(ForEachOps.java:183) ~[?:?] {}
+	at java.util.stream.ReferencePipeline$2$1.accept(ReferencePipeline.java:177) ~[?:?] {}
+	at java.util.Spliterators$ArraySpliterator.forEachRemaining(Spliterators.java:948) ~[?:?] {}
+	at java.util.stream.AbstractPipeline.copyInto(AbstractPipeline.java:484) ~[?:?] {}
+	at java.util.stream.AbstractPipeline.wrapAndCopyInto(AbstractPipeline.java:474) ~[?:?] {}
+	at java.util.stream.ForEachOps$ForEachOp.evaluateSequential(ForEachOps.java:150) ~[?:?] {}
+	at java.util.stream.ForEachOps$ForEachOp$OfRef.evaluateSequential(ForEachOps.java:173) ~[?:?] {}
+	at java.util.stream.AbstractPipeline.evaluate(AbstractPipeline.java:234) ~[?:?] {}
+	at java.util.stream.ReferencePipeline.forEach(ReferencePipeline.java:497) ~[?:?] {}
+	at net.minecraftforge.eventbus.EventBus.registerObject(EventBus.java:94) ~[eventbus-4.0.0.jar:?] {}
+	at net.minecraftforge.eventbus.EventBus.register(EventBus.java:120) ~[eventbus-4.0.0.jar:?] {}
+	at com.cgessinger.nebs.NekosEnchantedBooks.<init>(NekosEnchantedBooks.java:40) ~[nebs:1.7.0] {re:classloading}
+	at jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method) ~[?:?] {re:classloading,re:classloading}
+	at jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62) ~[?:?] {re:classloading,re:classloading}
+	at jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45) ~[?:?] {re:classloading,re:classloading}
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:490) ~[?:?] {}
+	at java.lang.Class.newInstance(Class.java:584) ~[?:?] {}
+	at net.minecraftforge.fml.javafmlmod.FMLModContainer.constructMod(FMLModContainer.java:67) ~[forge:36.2] {re:classloading}
+	at net.minecraftforge.fml.ModContainer.lambda$buildTransitionHandler$4(ModContainer.java:106) ~[forge:?] {re:classloading}
+	at java.util.concurrent.CompletableFuture$AsyncRun.run(CompletableFuture.java:1736) ~[?:?] {}
+	at java.util.concurrent.CompletableFuture$AsyncRun.exec(CompletableFuture.java:1728) ~[?:?] {}
+	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:290) ~[?:?] {}
+	at java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1020) ~[?:?] {}
+	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1656) ~[?:?] {re:computing_frames}
+	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1594) ~[?:?] {re:computing_frames}
+	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:183) ~[?:?] {}
+
+Mixins in Heaven: None found
+
+-- MOD legendarytooltips --
+Details:
+	Caused by 0: java.lang.NoClassDefFoundError: net/minecraft/client/util/ITooltipFlag
+		at com.anthonyhilyard.legendarytooltips.LegendaryTooltipsConfig.<init>(LegendaryTooltipsConfig.java:157) ~[legendarytooltips:1.3.1] {re:classloading}
+		at net.minecraftforge.common.ForgeConfigSpec$Builder.configure(ForgeConfigSpec.java:599) ~[forge:?] {re:classloading}
+		at com.anthonyhilyard.legendarytooltips.LegendaryTooltipsConfig.<clinit>(LegendaryTooltipsConfig.java:123) ~[legendarytooltips:1.3.1] {re:classloading}
+		at java.lang.Class.forName0(Native Method) ~[?:?] {}
+		at java.lang.Class.forName(Class.java:398) ~[?:?] {}
+		at net.minecraftforge.fml.AutomaticEventSubscriber.lambda$inject$6(AutomaticEventSubscriber.java:61) ~[forge:?] {re:classloading}
+		at java.util.ArrayList.forEach(ArrayList.java:1541) ~[?:?] {}
+		at net.minecraftforge.fml.AutomaticEventSubscriber.inject(AutomaticEventSubscriber.java:48) ~[forge:?] {re:classloading}
+		at net.minecraftforge.fml.javafmlmod.FMLModContainer.constructMod(FMLModContainer.java:77) ~[forge:36.2] {re:classloading}
+		at net.minecraftforge.fml.ModContainer.lambda$buildTransitionHandler$4(ModContainer.java:106) ~[forge:?] {re:classloading}
+		at java.util.concurrent.CompletableFuture$AsyncRun.run(CompletableFuture.java:1736) ~[?:?] {}
+		at java.util.concurrent.CompletableFuture$AsyncRun.exec(CompletableFuture.java:1728) ~[?:?] {}
+		at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:290) ~[?:?] {}
+		at java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1020) ~[?:?] {}
+		at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1656) ~[?:?] {re:computing_frames}
+		at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1594) ~[?:?] {re:computing_frames}
+		at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:183) ~[?:?] {}
+
+	Mod File: LegendaryTooltips-1.16.5-1.3.1.jar
+	Failure message: Legendary Tooltips (legendarytooltips) has failed to load correctly
+		java.lang.NoClassDefFoundError: net/minecraft/client/util/ITooltipFlag
+	Mod Version: 1.3.1
+	Mod Issue URL: NOT PROVIDED
+	Exception message: java.lang.ClassNotFoundException: net.minecraft.client.util.ITooltipFlag
+Stacktrace:
+	at java.lang.ClassLoader.findClass(ClassLoader.java:724) ~[?:?] {}
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:594) ~[?:?] {}
+	at cpw.mods.modlauncher.TransformingClassLoader.loadClass(TransformingClassLoader.java:106) ~[modlauncher-8.1.3.jar:?] {re:classloading}
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:527) ~[?:?] {}
+	at com.anthonyhilyard.legendarytooltips.LegendaryTooltipsConfig.<init>(LegendaryTooltipsConfig.java:157) ~[legendarytooltips:1.3.1] {re:classloading}
+	at net.minecraftforge.common.ForgeConfigSpec$Builder.configure(ForgeConfigSpec.java:599) ~[forge:?] {re:classloading}
+	at com.anthonyhilyard.legendarytooltips.LegendaryTooltipsConfig.<clinit>(LegendaryTooltipsConfig.java:123) ~[legendarytooltips:1.3.1] {re:classloading}
+	at java.lang.Class.forName0(Native Method) ~[?:?] {}
+	at java.lang.Class.forName(Class.java:398) ~[?:?] {}
+	at net.minecraftforge.fml.AutomaticEventSubscriber.lambda$inject$6(AutomaticEventSubscriber.java:61) ~[forge:?] {re:classloading}
+	at java.util.ArrayList.forEach(ArrayList.java:1541) ~[?:?] {}
+	at net.minecraftforge.fml.AutomaticEventSubscriber.inject(AutomaticEventSubscriber.java:48) ~[forge:?] {re:classloading}
+	at net.minecraftforge.fml.javafmlmod.FMLModContainer.constructMod(FMLModContainer.java:77) ~[forge:36.2] {re:classloading}
+	at net.minecraftforge.fml.ModContainer.lambda$buildTransitionHandler$4(ModContainer.java:106) ~[forge:?] {re:classloading}
+	at java.util.concurrent.CompletableFuture$AsyncRun.run(CompletableFuture.java:1736) ~[?:?] {}
+	at java.util.concurrent.CompletableFuture$AsyncRun.exec(CompletableFuture.java:1728) ~[?:?] {}
+	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:290) ~[?:?] {}
+	at java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1020) ~[?:?] {}
+	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1656) ~[?:?] {re:computing_frames}
+	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1594) ~[?:?] {re:computing_frames}
+	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:183) ~[?:?] {}
+
+Mixins in Heaven: None found
+
+-- System Details --
+Details:
+	Minecraft Version: 1.16.5
+	Minecraft Version ID: 1.16.5
+	Operating System: Linux (amd64) version 6.8.0-1021-azure
+	Java Version: 11.0.26, Ubuntu
+	Java VM Version: OpenJDK 64-Bit Server VM (mixed mode, sharing), Ubuntu
+	Memory: 3041691648 bytes (2900 MB) / 3546284032 bytes (3382 MB) up to 12884901888 bytes (12288 MB)
+	CPUs: 4
+	JVM Flags: 2 total; -Xms2G -Xmx12G
+	ModLauncher: 8.1.3+8.1.3+main-8.1.x.c94d18ec
+	ModLauncher launch target: fmlserver
+	ModLauncher naming: srg
+	ModLauncher services: 
+		/mixin-0.8.4.jar mixin PLUGINSERVICE 
+		/eventbus-4.0.0.jar eventbus PLUGINSERVICE 
+		/forge-1.16.5-36.2.42.jar object_holder_definalize PLUGINSERVICE 
+		/forge-1.16.5-36.2.42.jar runtime_enum_extender PLUGINSERVICE 
+		/forge-1.16.5-36.2.42.jar capability_inject_definalize PLUGINSERVICE 
+		/accesstransformers-3.0.1.jar accesstransformer PLUGINSERVICE 
+		/forge-1.16.5-36.2.42.jar runtimedistcleaner PLUGINSERVICE 
+		/mixin-0.8.4.jar mixin TRANSFORMATIONSERVICE 
+		/forge-1.16.5-36.2.42.jar fml TRANSFORMATIONSERVICE 
+	FML: 36.2
+	Forge: net.minecraftforge:36.2.42
+	FML Language Providers: 
+		javafml@36.2
+		minecraft@1
+	Mod List: 
+		CyclopsCore-1.16.5-1.13.0.jar                     |Cyclops Core                  |cyclopscore                   |1.13.0              |CREATE_REG|Manifest: NOSIGNATURE
+		BetterDungeons-1.16.4-1.2.1.jar                   |YUNG's Better Dungeons        |betterdungeons                |1.16.4-1.2.1        |CREATE_REG|Manifest: NOSIGNATURE
+		secondchanceforge-1.16.5-1.5.0.jar                |Second Chance Forge           |secondchanceforge             |1.5.0               |CREATE_REG|Manifest: NOSIGNATURE
+		infernal-expansion-1.16.5-2.5.0.jar               |Infernal Expansion            |infernalexp                   |2.5.0               |CREATE_REG|Manifest: NOSIGNATURE
+		fish_in_planks-1.16.5-0.4.jar                     |Fish in Planks                |fish_in_planks                |1.16.5-0.4          |CREATE_REG|Manifest: NOSIGNATURE
+		Architects-Palette-1.16.4-1.1.5.jar               |Architect's Palette           |architects_palette            |1.1.2               |CREATE_REG|Manifest: NOSIGNATURE
+		opotato-1.16.5-2.1.4.jar                          |Opotato                       |opotato                       |1.16.5-2.1.4        |CREATE_REG|Manifest: NOSIGNATURE
+		glazedsymmetry-1.0.jar                            |Glazed Symmetry               |glazedsymmetry                |1.0                 |CREATE_REG|Manifest: NOSIGNATURE
+		connectivity-2.4-1.16.5.jar                       |Connectivity Mod              |connectivity                  |2.4-1.16.5          |CREATE_REG|Manifest: NOSIGNATURE
+		ContentTweaker-1.16-1.0.0.develop.36.jar          |ContentTweaker                |contenttweaker                |1.0.0.develop.36    |CREATE_REG|Manifest: NOSIGNATURE
+		windowlogging-mc1.16.5_v0.0.5.jar                 |Windowlogging                 |windowlogging                 |0.0.4               |CREATE_REG|Manifest: NOSIGNATURE
+		Neat 1.7-27.jar                                   |Neat                          |neat                          |1.7-27              |CREATE_REG|Manifest: NOSIGNATURE
+		farsight-1.4.2-1.16.5.jar                         |Farsight                      |farsight_spyglasses           |1.4.2-1.16.5        |CREATE_REG|Manifest: NOSIGNATURE
+		BetterCaves-Forge-1.16.4-1.1.2.jar                |YUNG's Better Caves           |bettercaves                   |1.16.4-1.1.2        |CREATE_REG|Manifest: NOSIGNATURE
+		rawironandgoldupdate.jar                          |1.17 iron and gold            |iron_and_gold                 |1.0.2               |CREATE_REG|Manifest: NOSIGNATURE
+		advancementframes-1.16.5-1.0.5.jar                |Advancement Frames            |advancementframes             |1.16.5-1.0.5        |CREATE_REG|Manifest: NOSIGNATURE
+		Controlling-7.0.0.29.jar                          |Controlling                   |controlling                   |7.0.0.29            |CREATE_REG|Manifest: NOSIGNATURE
+		Prism-1.16.5-1.0.1.jar                            |Prism                         |prism                         |1.0.1               |CREATE_REG|Manifest: NOSIGNATURE
+		Placebo-1.16.5-4.7.1.jar                          |Placebo                       |placebo                       |4.7.1               |CREATE_REG|Manifest: NOSIGNATURE
+		modernfix-forge-5.8.1+mc1.16.5.jar                |ModernFix                     |modernfix                     |5.8.1+mc1.16.5      |CREATE_REG|Manifest: NOSIGNATURE
+		citadel-1.8.1-1.16.5.jar                          |Citadel                       |citadel                       |1.8.1               |CREATE_REG|Manifest: NOSIGNATURE
+		alexsmobs-1.12.1.jar                              |Alex's Mobs                   |alexsmobs                     |1.12.1              |CREATE_REG|Manifest: NOSIGNATURE
+		YungsApi-1.16.4-Forge-13.jar                      |YUNG's API                    |yungsapi                      |1.16.4-Forge-13     |CREATE_REG|Manifest: NOSIGNATURE
+		Mirabilis 1.0.5 1.16.5.jar                        |Mirabilis                     |mirabilis                     |1.0.5               |CREATE_REG|Manifest: NOSIGNATURE
+		clientcrafting-1.16.5-1.6.jar                     |clientcrafting mod            |clientcrafting                |1.16.5-1.6          |CREATE_REG|Manifest: NOSIGNATURE
+		Bookshelf-Forge-1.16.5-10.4.33.jar                |Bookshelf                     |bookshelf                     |10.4.33             |CREATE_REG|Manifest: eb:c4:b1:67:8b:f9:0c:db:dc:4f:01:b1:8e:61:64:39:4c:10:85:0b:a6:c4:c7:48:f0:fa:95:f2:cb:08:3a:e5
+		Tips-1.16.5-4.0.18.jar                            |Tips                          |tips                          |4.0.18              |CREATE_REG|Manifest: eb:c4:b1:67:8b:f9:0c:db:dc:4f:01:b1:8e:61:64:39:4c:10:85:0b:a6:c4:c7:48:f0:fa:95:f2:cb:08:3a:e5
+		itemzoom-1.16.x-2.2.1.jar                         |Item Zoom Rekindled           |itemzoom                      |2.2.1               |CREATE_REG|Manifest: NOSIGNATURE
+		forgery-1.16-1.4.0_01.jar                         |Forgery                       |fabrication                   |1.4.0_01            |CREATE_REG|Manifest: NOSIGNATURE
+		carryon-1.16.5-1.15.6.24.jar                      |Carry On                      |carryon                       |1.15.6.24           |CREATE_REG|Manifest: NOSIGNATURE
+		Paraglider-1.16.5-1.3.2.14.jar                    |Paraglider                    |paraglider                    |1.3.2.14            |CREATE_REG|Manifest: NOSIGNATURE
+		bundlesplus-0.2.1.jar                             |Bundles Plus                  |bundlesplus                   |0.2.1               |CREATE_REG|Manifest: NOSIGNATURE
+		supplementaries-1.16.5-0.18.5.jar                 |Supplementaries               |supplementaries               |0.18.3              |CREATE_REG|Manifest: NOSIGNATURE
+		structure_gel-1.16.5-1.7.8.jar                    |Structure Gel API             |structure_gel                 |1.7.8               |CREATE_REG|Manifest: NOSIGNATURE
+		EquipmentCompare-1.16.5-1.3.2.jar                 |Equipment Compare             |equipmentcompare              |1.3.2               |CREATE_REG|Manifest: NOSIGNATURE
+		AdvancementPlaques-1.16.5-1.4.1.jar               |Advancement Plaques           |advancementplaques            |1.4.1               |CREATE_REG|Manifest: NOSIGNATURE
+		PackMenu-1.16.5-2.5.0.jar                         |PackMenu                      |packmenu                      |2.5.0               |CREATE_REG|Manifest: NOSIGNATURE
+		homing_ender_eye-1.16.5-1.0.1.jar                 |Homing Ender Eye              |homing_ender_eye              |1.0.1               |CREATE_REG|Manifest: NOSIGNATURE
+		chocolate-1.3.0-1.16.4.jar                        |Chocolate                     |chocolate                     |1.3.0-1.16.4        |CREATE_REG|Manifest: NOSIGNATURE
+		FarmersDelight-1.16.5-0.6.0.jar                   |Farmer's Delight              |farmersdelight                |1.16.5-0.6.0        |CREATE_REG|Manifest: NOSIGNATURE
+		customizableelytra-1.16.4-1.6.1.jar               |Customizable Elytra           |customizableelytra            |1.16.4-1.6.1        |CREATE_REG|Manifest: NOSIGNATURE
+		repurposed_structures_forge-3.4.7+1.16.5.jar      |Repurposed Structures         |repurposed_structures         |3.4.7+1.16.5        |CREATE_REG|Manifest: NOSIGNATURE
+		rendertypecache-1.16.5-0.0.1.jar                  |RenderTypeCache               |rendertypecache               |1.16.5-0.0.1        |CREATE_REG|Manifest: NOSIGNATURE
+		moyai-1.16.5-1.0.2.jar                            |Moyai                         |moyai                         |1.16.5-1.0.2        |CREATE_REG|Manifest: NOSIGNATURE
+		dungeons_plus-1.16.5-1.1.5.jar                    |Dungeons Plus                 |dungeons_plus                 |1.1.5               |CREATE_REG|Manifest: NOSIGNATURE
+		skinned_lanterns-1.16.5-1.3.1.jar                 |Skinned Lanterns              |skinnedlanterns               |1.16.5-1.3.1        |CREATE_REG|Manifest: NOSIGNATURE
+		YungsBridges-Forge-1.16.4-1.0.1.jar               |YUNG's Bridges                |yungsbridges                  |1.16.4-1.0.1        |CREATE_REG|Manifest: NOSIGNATURE
+		shulker_enchantments-2.1.1.jar                    |Shulker Enchantments          |shulker_enchantments          |2.1.1               |CREATE_REG|Manifest: NOSIGNATURE
+		spark-1.9.1-forge.jar                             |spark                         |spark                         |1.9.1               |CREATE_REG|Manifest: NOSIGNATURE
+		lightspeed-1.16.5-1.0.5.jar                       |Lightspeed                    |lightspeed                    |1.16.5-1.1.0        |CREATE_REG|Manifest: NOSIGNATURE
+		Patchouli-1.16.4-53.3.jar                         |Patchouli                     |patchouli                     |1.16.4-53.3         |CREATE_REG|Manifest: NOSIGNATURE
+		despawn_tweaker-1.16.5-0.0.5.jar                  |DespawnTweaker                |despawn_tweaker               |1.16.5-0.0.5        |CREATE_REG|Manifest: NOSIGNATURE
+		leap-1.16.4-1.1.1.jar                             |Leap                          |leap                          |1.1.1               |CREATE_REG|Manifest: NOSIGNATURE
+		unnamedanimalmod-1.0.0.jar                        |Unnamed Animal Mod            |unnamedanimalmod              |1.0.0               |CREATE_REG|Manifest: NOSIGNATURE
+		YungsExtras-Forge-1.16.4-1.0.jar                  |YUNG's Extras                 |yungsextras                   |Forge-1.16.4-1.0    |CREATE_REG|Manifest: NOSIGNATURE
+		BetterStrongholds-1.16.4-1.2.1.jar                |YUNG's Better Strongholds     |betterstrongholds             |1.16.4-1.2.1        |CREATE_REG|Manifest: NOSIGNATURE
+		antiquewaystones-1.3.jar                          |Antique Waystones             |antiquewaystones              |1.3                 |CREATE_REG|Manifest: NOSIGNATURE
+		sapience-1.16.5-1.1.2.jar                         |Sapience                      |sapience                      |1.1.2               |CREATE_REG|Manifest: NOSIGNATURE
+		architectury-1.32.68.jar                          |Architectury                  |architectury                  |1.32.68             |CREATE_REG|Manifest: NOSIGNATURE
+		Chimes-1.0.0-1.16.5.jar                           |Chimes                        |chimes                        |1.0.0               |CREATE_REG|Manifest: NOSIGNATURE
+		cloth-config-4.17.101-forge.jar                   |Cloth Config v4 API           |cloth-config                  |4.17.101            |CREATE_REG|Manifest: NOSIGNATURE
+		BetterMineshafts-Forge-1.16.4-2.0.4.jar           |YUNG's Better Mineshafts      |bettermineshafts              |1.16.4-2.0.4        |CREATE_REG|Manifest: NOSIGNATURE
+		SimpleDiscordRichPresence-1.4.0-build.3+mc1.16.5.j|Simple Discord Rich Presence  |sdrp                          |1.4.0-build.3+mc1.16|CREATE_REG|Manifest: NOSIGNATURE
+		geckolib-forge-1.16.5-3.0.106.jar                 |GeckoLib                      |geckolib3                     |3.0.106             |CREATE_REG|Manifest: NOSIGNATURE
+		NekosEnchantedBooks-1.16-1.7.0.jar                |Neko’s Enchanted Books        |nebs                          |1.7.0               |ERROR     |Manifest: NOSIGNATURE
+		BetterAdvancements-1.16.5-0.1.1.115.jar           |Better Advancements           |betteradvancements            |0.1.1.115           |CREATE_REG|Manifest: NOSIGNATURE
+		StructuredCrafting-1.16.4-0.2.2.jar               |StructuredCrafting            |structuredcrafting            |0.2.2               |CREATE_REG|Manifest: NOSIGNATURE
+		QuarkOddities-1.16.3.jar                          |Quark Oddities                |quarkoddities                 |1.16.3              |CREATE_REG|Manifest: NOSIGNATURE
+		Notes-1.16.5-1.2.3.jar                            |Notes                         |notes                         |1.16.5-1.2.3        |CREATE_REG|Manifest: NOSIGNATURE
+		ftb-library-forge-1605.3.4-build.90.jar           |FTB Library                   |ftblibrary                    |1605.3.4-build.90   |CREATE_REG|Manifest: NOSIGNATURE
+		jei-1.16.5-7.8.0.1009.jar                         |Just Enough Items             |jei                           |7.8.0.1009          |CREATE_REG|Manifest: NOSIGNATURE
+		the-conjurer-1.16.4-1.0.13.jar                    |The Conjurer                  |conjurer_illager              |1.0.13              |CREATE_REG|Manifest: NOSIGNATURE
+		abnormals_core-1.16.5-3.3.1.jar                   |Abnormals Core                |abnormals_core                |3.3.1               |CREATE_REG|Manifest: NOSIGNATURE
+		Fruitful-1.16.5-2.1.0.jar                         |Fruitful                      |fruitful                      |1.16.5-2.1.0        |CREATE_REG|Manifest: NOSIGNATURE
+		environmental-1.16.5-1.1.1.jar                    |Environmental                 |environmental                 |1.1.1               |CREATE_REG|Manifest: NOSIGNATURE
+		bamboo_blocks-1.16.5-3.0.1.jar                    |Bamboo Blocks                 |bamboo_blocks                 |3.0.1               |CREATE_REG|Manifest: NOSIGNATURE
+		allurement-1.16.5-1.2.1.jar                       |Allurement                    |allurement                    |1.2.1               |CREATE_REG|Manifest: NOSIGNATURE
+		peculiars-1.16.5-2.0.1.jar                        |Peculiars                     |peculiars                     |1.16.5-2.0.1        |CREATE_REG|Manifest: NOSIGNATURE
+		buzzier_bees-1.16.5-3.0.3.jar                     |Buzzier Bees                  |buzzier_bees                  |3.0.3               |CREATE_REG|Manifest: NOSIGNATURE
+		berry_good-1.16.5-4.1.2.jar                       |Berry Good                    |berry_good                    |4.1.2               |CREATE_REG|Manifest: NOSIGNATURE
+		Enhanced-Mushrooms-1.16.5-3.0.9.jar               |Enhanced Mushrooms            |enhanced_mushrooms            |1.16.5-3.0.9        |CREATE_REG|Manifest: NOSIGNATURE
+		Bayou-Blues-1.16.5-1.0.5.jar                      |Bayou Blues                   |bayou_blues                   |1.16.5-1.0.5        |CREATE_REG|Manifest: NOSIGNATURE
+		differentiate-1.16.5-0.5.3.jar                    |Differentiate                 |differentiate                 |0.5.3               |CREATE_REG|Manifest: NOSIGNATURE
+		cookielicious-1.16.5-1.4.3.jar                    |Cookielicious                 |cookielicious                 |1.4.3               |CREATE_REG|Manifest: NOSIGNATURE
+		seals-1.16.3-2.1.2.jar                            |Seals                         |seals                         |2.1.2               |CREATE_REG|Manifest: NOSIGNATURE
+		Better-Badlands-1.16.5-2.0.3.jar                  |Better Badlands               |better_badlands               |1.16.5-2.0.3        |CREATE_REG|Manifest: NOSIGNATURE
+		extraboats-1.16.5-2.1.1.jar                       |Extra Boats                   |extraboats                    |2.1.1               |CREATE_REG|Manifest: NOSIGNATURE
+		Waystones_1.16.5-7.6.4.jar                        |Waystones                     |waystones                     |7.6.4               |CREATE_REG|Manifest: NOSIGNATURE
+		shutupexperimentalsettings-1.0.3.jar              |Shutup Experimental Settings! |shutupexperimentalsettings    |1.0.3               |CREATE_REG|Manifest: NOSIGNATURE
+		RoadRunner-mc1.16.5-1.4.1.jar                     |Meep Meep! (Road Runner)      |roadrunner                    |1.4.1               |CREATE_REG|Manifest: NOSIGNATURE
+		irregularchef-1.16.5-1.0.1.jar                    |The Irregular Chef            |irregularchef                 |1.16.5-1.0.1        |CREATE_REG|Manifest: NOSIGNATURE
+		fantasy-forge-1.1.1.jar                           |Fantasy Mounts                |fantasy                       |1.0                 |CREATE_REG|Manifest: NOSIGNATURE
+		lazydfu-0.1.3.jar                                 |LazyDFU                       |lazydfu                       |0.1.3               |CREATE_REG|Manifest: NOSIGNATURE
+		bedspreads-forge-1.16.5-5.1.0.3.jar               |Bedspreads                    |bedspreads                    |1.16.5-5.1.0.3      |CREATE_REG|Manifest: NOSIGNATURE
+		blockswap-1.1.1.jar                               |Block Swap                    |blockswap                     |1.1.1               |CREATE_REG|Manifest: NOSIGNATURE
+		ToastControl-1.16.5-4.4.0.jar                     |Toast Control                 |toastcontrol                  |4.4.0               |CREATE_REG|Manifest: NOSIGNATURE
+		JEITweaker-1.16.5-1.1.0.49.jar                    |JEI Tweaker                   |jeitweaker                    |1.1.0.49            |CREATE_REG|Manifest: NOSIGNATURE
+		memoryleakfix-forge-pre1.17-1.0.0.jar             |Memory Leak Fix               |memoryleakfix                 |1.0.0               |CREATE_REG|Manifest: NOSIGNATURE
+		CraftTweaker-1.16.5-7.1.2.525.jar                 |CraftTweaker                  |crafttweaker                  |7.1.2.525           |CREATE_REG|Manifest: NOSIGNATURE
+		frozenup-1.0.1.jar                                |Frozen Up                     |frozenup                      |1.0.1               |CREATE_REG|Manifest: NOSIGNATURE
+		forge-1.16.5-36.2.42-universal.jar                |Forge                         |forge                         |36.2.42             |CREATE_REG|Manifest: 22:af:21:d8:19:82:7f:93:94:fe:2b:ac:b7:e4:41:57:68:39:87:b1:a7:5c:c6:44:f9:25:74:21:14:f5:0d:90
+		endergetic-1.16.5-3.0.2.jar                       |The Endergetic Expansion      |endergetic                    |3.0.2               |CREATE_REG|Manifest: NOSIGNATURE
+		seasonals-1.16.5-2.0.3.jar                        |Seasonals                     |seasonals                     |1.16.5-2.0.3        |CREATE_REG|Manifest: NOSIGNATURE
+		chalk-1.16.5-1.2.1.jar                            |Chalk                         |chalk                         |1.2.1               |CREATE_REG|Manifest: NOSIGNATURE
+		neapolitan-1.16.5-2.2.1.jar                       |Neapolitan                    |neapolitan                    |2.2.1               |CREATE_REG|Manifest: NOSIGNATURE
+		selene-1.16.5-1.9.0.jar                           |Selene                        |selene                        |1.16.5-1.0          |CREATE_REG|Manifest: NOSIGNATURE
+		antiqueatlas-6.2.4-forge-mc1.16.5.jar             |Antique Atlas                 |antiqueatlas                  |6.2.4-forge-mc1.16.5|CREATE_REG|Manifest: NOSIGNATURE
+		forge-1.16.5-36.2.42-server.jar                   |Minecraft                     |minecraft                     |1.16.5              |CREATE_REG|Manifest: NOSIGNATURE
+		upgrade_aquatic-1.16.5-3.1.2.jar                  |Upgrade Aquatic               |upgrade_aquatic               |3.1.2               |CREATE_REG|Manifest: NOSIGNATURE
+		smoothchunk1.16.5-2.0.jar                         |Smoothchunk mod               |smoothchunk                   |2.0                 |CREATE_REG|Manifest: NOSIGNATURE
+		radon-0.8.0a.jar                                  |Radon                         |radon                         |0.8.0a              |CREATE_REG|Manifest: NOSIGNATURE
+		goaloptimizer-1.16.5-1.1.1.jar                    |GoalOptimizer                 |goaloptimizer                 |1.16.5-1.1.1        |CREATE_REG|Manifest: NOSIGNATURE
+		EnchantmentDescriptions-1.16.5-7.1.23.jar         |EnchantmentDescriptions       |enchdesc                      |7.1.23              |CREATE_REG|Manifest: eb:c4:b1:67:8b:f9:0c:db:dc:4f:01:b1:8e:61:64:39:4c:10:85:0b:a6:c4:c7:48:f0:fa:95:f2:cb:08:3a:e5
+		swingthroughgrass-1.16.4-1.5.3.jar                |SwingThroughGrass             |swingthroughgrass             |1.16.4-1.5.3        |CREATE_REG|Manifest: NOSIGNATURE
+		MouseTweaks-2.14-mc1.16.2.jar                     |Mouse Tweaks                  |mousetweaks                   |2.14                |CREATE_REG|Manifest: NOSIGNATURE
+		Abundance-1.16.5-1.0.5.jar                        |Abundance                     |abundance                     |1.16.5-1.0.5        |CREATE_REG|Manifest: NOSIGNATURE
+		Jade-1.16.4-2.8.3.jar                             |Jade                          |jade                          |2.8.3               |CREATE_REG|Manifest: NOSIGNATURE
+		towers_of_the_wild-1.16.3-2.1.0.1.jar             |Towers Of The Wild            |towers_of_the_wild            |1.16.3-2.1.0        |CREATE_REG|Manifest: NOSIGNATURE
+		lepton-1.16.5-1.3.2.jar                           |Lepton                        |lepton                        |1.3.2               |CREATE_REG|Manifest: NOSIGNATURE
+		farmersdelightintegration-1.16.5-1.0.3.jar        |Farmer's Delight Integration  |farmersdelightintegration     |1.16.5-1.0.3        |CREATE_REG|Manifest: NOSIGNATURE
+		personality-1.16.5-1.0.3.jar                      |Personality                   |personality                   |1.0.3               |CREATE_REG|Manifest: NOSIGNATURE
+		atmospheric-1.16.5-3.1.1.jar                      |Atmospheric                   |atmospheric                   |3.1.1               |CREATE_REG|Manifest: NOSIGNATURE
+		Iceberg-1.16.5-1.0.45.jar                         |Iceberg                       |iceberg                       |1.0.45              |CREATE_REG|Manifest: NOSIGNATURE
+		savageandravage-1.16.5-3.2.0.jar                  |Savage & Ravage               |savageandravage               |3.2.0               |CREATE_REG|Manifest: NOSIGNATURE
+		Mantle-1.16.5-1.6.157.jar                         |Mantle                        |mantle                        |1.6.157             |CREATE_REG|Manifest: NOSIGNATURE
+		Inspirations-1.16.5-1.2.3.38.jar                  |Inspirations                  |inspirations                  |1.2.3.38            |CREATE_REG|Manifest: NOSIGNATURE
+		LegendaryTooltips-1.16.5-1.3.1.jar                |Legendary Tooltips            |legendarytooltips             |1.3.1               |ERROR     |Manifest: NOSIGNATURE
+		ftb-backups-2.1.2.2.jar                           |FTB Backups                   |ftbbackups                    |2.1.2.2             |CREATE_REG|Manifest: NOSIGNATURE
+		autumnity-1.16.5-2.1.2.jar                        |Autumnity                     |autumnity                     |2.1.2               |CREATE_REG|Manifest: NOSIGNATURE
+		AutoRegLib-1.6-49.jar                             |AutoRegLib                    |autoreglib                    |1.6-49              |CREATE_REG|Manifest: NOSIGNATURE
+		Quark-r2.4-322.jar                                |Quark                         |quark                         |r2.4-322            |CREATE_REG|Manifest: NOSIGNATURE
+		charm-forge-1.16.5-2.3.2.jar                      |Charm                         |charm                         |2.3.2               |CREATE_REG|Manifest: NOSIGNATURE
+		charmonium-forge-1.16.5-2.3.2.jar                 |Charmonium                    |charmonium                    |2.3.2               |CREATE_REG|Manifest: NOSIGNATURE
+		abnormals_delight-1.16.5-1.2.1.jar                |Abnormals Delight             |abnormals_delight             |1.2.1               |CREATE_REG|Manifest: NOSIGNATURE
+		StorageDrawers-1.16.3-8.5.2.jar                   |Storage Drawers               |storagedrawers                |8.5.2               |CREATE_REG|Manifest: NOSIGNATURE
+		redirector-1.16.5-1.6.0-forge.jar                 |Redirector                    |redirector                    |1.16.5-1.6.0        |CREATE_REG|Manifest: NOSIGNATURE
+		muchmoremodcompat-1.0.0.jar                       |Much More Mod Compat          |muchmoremodcompat             |NONE                |CREATE_REG|Manifest: NOSIGNATURE
+		decorative_blocks-1.16.4-1.7.2.jar                |Decorative Blocks             |decorative_blocks             |1.7.2               |CREATE_REG|Manifest: NOSIGNATURE
+		decorative_blocks_abnormals-1.2.jar               |Decorative Blocks Abnormals   |decorative_blocks_abnormals   |1.2                 |CREATE_REG|Manifest: NOSIGNATURE
+		decorative_winter-0.1.2.jar                       |Decorative Winter             |decorative_winter             |0.1.2               |CREATE_REG|Manifest: NOSIGNATURE
+		ferritecore-2.1.1-forge.jar                       |Ferrite Core                  |ferritecore                   |2.1.1               |CREATE_REG|Manifest: 41:ce:50:66:d1:a0:05:ce:a1:0e:02:85:9b:46:64:e0:bf:2e:cf:60:30:9a:fe:0c:27:e0:63:66:9a:84:ce:8a
+		minetogether-1.16.5-5.1.2-forge.jar               |MineTogether                  |minetogether                  |1.16.5-5.1.2        |CREATE_REG|Manifest: 59:0f:44:4b:f7:95:28:28:25:5b:fd:c0:c9:48:6c:4a:e5:6e:6d:7b:63:ab:f4:90:55:1f:cf:4b:e9:51:91:ed
+		mannequins-forge-2.1.0+1.16.5.jar                 |Mannequins                    |mannequins                    |2.1.0               |CREATE_REG|Manifest: NOSIGNATURE
+		pollen-forge-1.5.0+1.16.5.jar                     |Pollen                        |pollen                        |1.5.0               |CREATE_REG|Manifest: NOSIGNATURE
+		chunksending-1.16.5-2.5.jar                       |chunksending mod              |chunksending                  |1.16.5-2.5          |CREATE_REG|Manifest: NOSIGNATURE
+		step-1.16.4-1.1.0.jar                             |Step                          |step                          |1.1.0               |CREATE_REG|Manifest: NOSIGNATURE
+		OpenLoader-1.16.5-9.0.3.jar                       |OpenLoader                    |openloader                    |9.0.3               |CREATE_REG|Manifest: eb:c4:b1:67:8b:f9:0c:db:dc:4f:01:b1:8e:61:64:39:4c:10:85:0b:a6:c4:c7:48:f0:fa:95:f2:cb:08:3a:e5
+		deuf-1.16.5-1.1.jar                               |DEUF - Duplicate Entity UUID F|deuf                          |1.16.5-1.1          |CREATE_REG|Manifest: NOSIGNATURE
+		DefaultOptions_1.16.5-12.2.1.jar                  |Default Options               |defaultoptions                |12.2.1              |CREATE_REG|Manifest: NOSIGNATURE
+	RoadRunner != Lithium: This instance was launched using RoadRunner, which is an *unofficial* Lithium fork! Please **do not** report bugs to them!
+	Crash Report UUID: 71d0c55f-72c7-4696-ab4a-50885477c6d5

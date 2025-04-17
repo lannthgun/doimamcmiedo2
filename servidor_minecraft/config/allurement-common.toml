@@ -47,6 +47,10 @@
 
 [tweaks]
 
+	[tweaks.bane_of_arthropods]
+		#If Bane of Arthropods increases the mining speed of Cobwebs
+		"Bane of Arthropods mines cobwebs faster" = true
+
 	[tweaks.horse_armor]
 		#Allow horse armor to be enchanted
 		"Enchantable horse armor" = true
@@ -69,6 +73,10 @@
 		#Remove the amount of experience per level increasing (experimental)
 		"Remove level scaling" = false
 
+	[tweaks.feather_falling]
+		#If having Feather Falling prevents farmland from being trampled
+		"Feather Falling prevents trampling" = true
+
 	[tweaks.infinity]
 		#If Infinity requires an arrow in the player's inventory in order to shoot
 		"Infinity requires arrows" = false
@@ -80,12 +88,4 @@
 	[tweaks.riptide]
 		#Allow Riptide to function when in cauldrons
 		"Riptide works in cauldrons" = true
-
-	[tweaks.bane_of_arthropods]
-		#If Bane of Arthropods increases the mining speed of Cobwebs
-		"Bane of Arthropods mines cobwebs faster" = true
-
-	[tweaks.feather_falling]
-		#If having Feather Falling prevents farmland from being trampled
-		"Feather Falling prevents trampling" = true
 

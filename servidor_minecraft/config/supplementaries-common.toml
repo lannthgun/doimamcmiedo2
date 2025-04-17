@@ -18,11 +18,11 @@
 		light_level = 12
 
 	[blocks.speaker_block]
+		#Enable/disable speaker block narrator mode
+		narrator_enabled = true
 		#Maximum block range
 		#Range: 0 ~ 100000000
 		range = 64
-		#Enable/disable speaker block narrator mode
-		narrator_enabled = true
 
 	[blocks.sack]
 		#How many slots should a sack have
@@ -75,13 +75,13 @@
 	[blocks.cage]
 		#Allows all baby mobs to be captured by cages
 		cage_allow_all_babies = false
+		#Health percentage under which mobs will be allowed to be captured by cages and jars. Leave at 100 to accept any health level
+		#Range: 1 ~ 100
+		health_threshold = 100
 		#Allows all entities to be captured by cages and jars. Not meant for survival
 		allow_all_mobs = false
 		#Dynamically allows all small mobs inside cages depending on their hitbox size
 		cage_auto_detect = false
-		#Health percentage under which mobs will be allowed to be captured by cages and jars. Leave at 100 to accept any health level
-		#Range: 1 ~ 100
-		health_threshold = 100
 
 	[blocks.globe]
 		#how many globe trades to give to the wandering trader. This will effectively increase the chance of him having a globe trader. Increase this if you have other mods that add stuff to that trader
@@ -279,6 +279,8 @@
 		directional_cake = true
 
 	[tweaks.placeable_books]
+		#Allows written books to be placeable (will need shift clicking)
+		written_books = false
 		#Allow all books to be placed both vertically and horizontally
 		mixed_books = false
 		#Enchantment power bonus given by normal book piles with 4 books. Piles with less books will have their respective fraction of this total. For reference a vanilla bookshelf provides 1
@@ -289,8 +291,6 @@
 		#Enchantment power bonus given by normal book piles with 4 books. Piles with less books will have their respective fraction of this total. For reference a vanilla bookshelf provides 1
 		#Range: 0.0 ~ 5.0
 		book_power = 1.0
-		#Allows written books to be placeable (will need shift clicking)
-		written_books = false
 
 	[tweaks.map_tweaks]
 		#In this section you can add custom structure maps to cartographers

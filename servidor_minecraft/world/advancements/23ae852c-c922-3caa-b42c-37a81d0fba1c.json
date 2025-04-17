@@ -1865,6 +1865,12 @@
     },
     "done": true
   },
+  "atmospheric:adventure/dunes_pricks": {
+    "criteria": {
+      "barrel_cactus": "2025-04-17 19:53:12 +0000"
+    },
+    "done": false
+  },
   "inspirations:recipes/building_blocks/cauldron/bottle/wool/yellow": {
     "criteria": {
       "has_the_recipe": "2025-04-17 00:54:40 +0000"

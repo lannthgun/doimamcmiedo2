@@ -1566,3 +1566,30 @@ com.google.gson.JsonSyntaxException: Unknown item id 'environmental:squid_ink_ri
 [17Apr2025 19:20:19.713] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ★ W4ndr: SISI MIRA
 [17Apr2025 19:20:22.136] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ★ W4ndr: ven
 [17Apr2025 19:20:29.462] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ★ ShirouFRG: manda ss
+[17Apr2025 19:23:04.888] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [ShirouFRG: Set 13 experience levels on ShirouFRG]
+[17Apr2025 19:23:10.640] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Unknown or incomplete command, see below for error
+[17Apr2025 19:23:10.641] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: a<--[HERE]
+[17Apr2025 19:29:20.986] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: ShirouFRG lost connection: Disconnected
+[17Apr2025 19:29:20.986] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ShirouFRG left the game
+[17Apr2025 19:29:20.986] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client ShirouFRG
+[17Apr2025 19:29:25.104] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@8291bbf
+[17Apr2025 19:29:25.143] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: ShirouFRG[/127.92.35.242:51995] logged in with entity id 2906 at (269.3488735659609, 63.0, -105.38651387556574)
+[17Apr2025 19:29:25.165] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ShirouFRG joined the game
+[17Apr2025 19:29:25.194] [Server thread/INFO] [Waila/]: Syncing config to ShirouFRG (924c1042-eb96-30b4-8b16-790e68f4b1fa)
+[17Apr2025 19:29:25.212] [Server thread/INFO] [antiqueatlas/]: Sent markers data #-1 to player ShirouFRG
+[17Apr2025 19:29:25.212] [Server thread/INFO] [antiqueatlas/]: Sent custom biome data to player ShirouFRG
+[17Apr2025 19:29:25.212] [Server thread/INFO] [antiqueatlas/]: Sent custom biome data to player ShirouFRG
+[17Apr2025 19:29:25.213] [Server thread/INFO] [antiqueatlas/]: Sent custom biome data to player ShirouFRG
+[17Apr2025 19:29:26.091] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of ShirouFRG (18)
+[17Apr2025 19:29:26.091] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to ShirouFRG
+[17Apr2025 19:29:28.471] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 924c1042-eb96-30b4-8b16-790e68f4b1fa
+[17Apr2025 19:29:29.475] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 924c1042-eb96-30b4-8b16-790e68f4b1fa
+[17Apr2025 19:29:29.475] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player ShirouFRG (924c1042-eb96-30b4-8b16-790e68f4b1fa) successfully connected to voice chat
+[17Apr2025 19:29:56.692] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ★ ShirouFRG: yahora
+[17Apr2025 19:30:03.619] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ★ W4ndr: aver
+[17Apr2025 19:30:20.023] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ★ W4ndr: es un smoking?
+[17Apr2025 19:30:25.342] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ★ ShirouFRG: si
+[17Apr2025 19:30:26.657] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ★ W4ndr: parece pj de
+[17Apr2025 19:30:34.051] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ★ W4ndr: bungou stray dogs
+[17Apr2025 19:30:36.194] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ★ ShirouFRG: si es
+[17Apr2025 19:30:44.124] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ★ W4ndr: PEAK

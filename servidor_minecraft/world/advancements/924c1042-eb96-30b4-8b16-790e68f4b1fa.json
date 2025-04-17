@@ -995,6 +995,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2025-04-17 20:29:27 +0000"
+    },
+    "done": true
+  },
   "inspirations:recipes/decorations/cauldron/bottle/stained_glass_pane/purple": {
     "criteria": {
       "has_the_recipe": "2025-04-17 19:18:03 +0000"
@@ -5447,6 +5453,12 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/seagull_steal": {
+    "criteria": {
+      "ex": "2025-04-17 20:27:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/diorite_wall": {
     "criteria": {
       "has_the_recipe": "2025-04-17 19:18:03 +0000"
@@ -5509,6 +5521,7 @@
       "atmospheric:flourishing_dunes": "2025-04-17 20:14:56 +0000",
       "minecraft:river": "2025-04-17 19:58:09 +0000",
       "minecraft:lukewarm_ocean": "2025-04-17 20:15:46 +0000",
+      "atmospheric:dunes": "2025-04-17 20:27:15 +0000",
       "minecraft:desert_hills": "2025-04-17 20:19:10 +0000",
       "atmospheric:dunes_hills": "2025-04-17 19:57:18 +0000",
       "minecraft:desert": "2025-04-17 20:17:54 +0000",
@@ -7731,6 +7744,12 @@
       "has_the_recipe": "2025-04-17 19:18:04 +0000"
     },
     "done": true
+  },
+  "minecraft:husbandry/complete_catalogue": {
+    "criteria": {
+      "textures/entity/cat/black.png": "2025-04-17 20:29:27 +0000"
+    },
+    "done": false
   },
   "inspirations:recipes/building_blocks/cauldron/bottle/terracotta/orange": {
     "criteria": {

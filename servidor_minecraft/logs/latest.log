@@ -1748,3 +1748,53 @@ com.google.gson.JsonSyntaxException: Unknown item id 'environmental:squid_ink_ri
 [17Apr2025 20:22:08.705] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: VALIENTE (vehicle of ShirouFRG) moved wrongly! 0.5073122635403706
 [17Apr2025 20:22:28.606] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: VALIENTE (vehicle of ShirouFRG) moved wrongly! 0.4019881954318616
 [17Apr2025 20:22:28.660] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: VALIENTE (vehicle of ShirouFRG) moved wrongly! 1.2116748129255295
+[17Apr2025 20:25:03.144] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ★ Baeel: un wandering trader
+[17Apr2025 20:26:49.241] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Unknown or incomplete command, see below for error
+[17Apr2025 20:26:49.246] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: a<--[HERE]
+[17Apr2025 20:27:05.952] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: VALIENTE (vehicle of ShirouFRG) moved wrongly! 0.3011865254356394
+[17Apr2025 20:27:34.688] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ShirouFRG has made the advancement [Mine? Mine? Mine?]
+[17Apr2025 20:28:15.290] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: ShirouFRG was kicked for floating too long!
+[17Apr2025 20:28:15.340] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: ShirouFRG lost connection: Flying is not enabled on this server
+[17Apr2025 20:28:15.340] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ShirouFRG left the game
+[17Apr2025 20:28:15.340] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client ShirouFRG
+[17Apr2025 20:28:19.852] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@76d85b17
+[17Apr2025 20:28:19.877] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: ShirouFRG[/127.92.35.242:50597] logged in with entity id 15230 at (391.2324014564817, 72.8500000178814, -16.194485706829976)
+[17Apr2025 20:28:19.904] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ShirouFRG joined the game
+[17Apr2025 20:28:19.928] [Server thread/INFO] [Waila/]: Syncing config to ShirouFRG (924c1042-eb96-30b4-8b16-790e68f4b1fa)
+[17Apr2025 20:28:19.941] [Server thread/INFO] [antiqueatlas/]: Sent markers data #-1 to player ShirouFRG
+[17Apr2025 20:28:19.941] [Server thread/INFO] [antiqueatlas/]: Sent custom biome data to player ShirouFRG
+[17Apr2025 20:28:19.942] [Server thread/INFO] [antiqueatlas/]: Sent custom biome data to player ShirouFRG
+[17Apr2025 20:28:19.942] [Server thread/INFO] [antiqueatlas/]: Sent custom biome data to player ShirouFRG
+[17Apr2025 20:28:20.813] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of ShirouFRG (18)
+[17Apr2025 20:28:20.814] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to ShirouFRG
+[17Apr2025 20:28:24.234] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 924c1042-eb96-30b4-8b16-790e68f4b1fa
+[17Apr2025 20:28:25.235] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 924c1042-eb96-30b4-8b16-790e68f4b1fa
+[17Apr2025 20:28:25.236] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player ShirouFRG (924c1042-eb96-30b4-8b16-790e68f4b1fa) successfully connected to voice chat
+[17Apr2025 20:28:34.740] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ★ ShirouFRG: zun tienes q sacar el anti chit...
+[17Apr2025 20:28:35.390] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ★ ShirouFRG: el
+[17Apr2025 20:28:39.995] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ★ ShirouFRG: caballo va tan rapido
+[17Apr2025 20:28:45.189] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ★ ShirouFRG: q me kickea por volar
+[17Apr2025 20:28:46.790] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ★ ShirouFRG: ASDKJKJASD
+[17Apr2025 20:29:27.256] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ShirouFRG has made the advancement [Best Friends Forever]
+[17Apr2025 20:29:52.747] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ★ Baeel: JSAKJA Q
+[17Apr2025 20:30:06.061] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ★ Baeel: pq tiene un unicornio
+[17Apr2025 20:30:13.740] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ★ ShirouFRG: esta opqcarajko
+[17Apr2025 20:30:14.590] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ★ ShirouFRG: mira
+[17Apr2025 20:30:36.845] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ★ Baeel: q isso pasohelao
+[17Apr2025 20:30:48.506] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: VALIENTE (vehicle of ShirouFRG) moved wrongly! 0.4381720197755641
+[17Apr2025 20:30:48.555] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: VALIENTE (vehicle of ShirouFRG) moved wrongly! 0.9977593708107975
+[17Apr2025 20:30:48.604] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: VALIENTE (vehicle of ShirouFRG) moved wrongly! 1.5856513993698087
+[17Apr2025 20:30:55.901] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: VALIENTE (vehicle of ShirouFRG) moved wrongly! 0.6139059271767451
+[17Apr2025 20:30:55.988] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: VALIENTE (vehicle of ShirouFRG) moved wrongly! 1.527612717725333
+[17Apr2025 20:30:56.005] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: VALIENTE (vehicle of ShirouFRG) moved wrongly! 2.4393615519439606
+[17Apr2025 20:31:06.251] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: VALIENTE (vehicle of ShirouFRG) moved wrongly! 0.5553943026201864
+[17Apr2025 20:31:06.300] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: VALIENTE (vehicle of ShirouFRG) moved wrongly! 1.5107852903520325
+[17Apr2025 20:31:06.348] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: VALIENTE (vehicle of ShirouFRG) moved wrongly! 2.482375227813236
+[17Apr2025 20:31:06.406] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: VALIENTE (vehicle of ShirouFRG) moved wrongly! 3.4563613432738975
+[17Apr2025 20:31:11.293] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ★ Baeel: ahora veo lo del anticheat pq tendría q reiniciar elsv
+[17Apr2025 20:31:14.439] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ★ ShirouFRG: okis
+[17Apr2025 20:31:16.715] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ★ Baeel: esdras se fue afk
+[17Apr2025 20:32:02.544] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Baeel: Created new objective [player]]
+[17Apr2025 20:32:10.048] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: VALIENTE (vehicle of ShirouFRG) moved wrongly! 0.6552481555464453
+[17Apr2025 20:32:17.604] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Baeel: Set display slot list to show objective player]
+[17Apr2025 20:32:54.655] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ShirouFRG has made the advancement [Sweet Dreams]

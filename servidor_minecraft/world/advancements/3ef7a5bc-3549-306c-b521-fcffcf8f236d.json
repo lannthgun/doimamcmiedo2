@@ -4940,7 +4940,8 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:creeper": "2025-04-17 05:17:29 +0000",
-      "minecraft:zombie": "2025-04-17 05:13:08 +0000"
+      "minecraft:zombie": "2025-04-17 05:13:08 +0000",
+      "minecraft:zombie_villager": "2025-04-17 20:45:10 +0000"
     },
     "done": false
   },
@@ -5727,6 +5728,7 @@
       "atmospheric:dunes_hills": "2025-04-17 05:00:00 +0000",
       "minecraft:desert": "2025-04-17 05:24:35 +0000",
       "minecraft:jungle": "2025-04-17 20:36:43 +0000",
+      "minecraft:savanna": "2025-04-17 20:47:38 +0000",
       "minecraft:plains": "2025-04-17 04:43:27 +0000"
     },
     "done": false

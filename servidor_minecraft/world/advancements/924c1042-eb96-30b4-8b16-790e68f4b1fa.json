@@ -1837,6 +1837,7 @@
   },
   "atmospheric:adventure/dunes_pricks": {
     "criteria": {
+      "aloe_vera": "2025-04-17 20:48:08 +0000",
       "yucca_flower": "2025-04-17 20:15:08 +0000"
     },
     "done": false

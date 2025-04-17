@@ -1707,3 +1707,44 @@ com.google.gson.JsonSyntaxException: Unknown item id 'environmental:squid_ink_ri
 [17Apr2025 20:03:25.225] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ★ W4ndr: en esta version no hay madera de sakura
 [17Apr2025 20:03:28.102] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ★ Baeel: :fearful:
 [17Apr2025 20:03:29.336] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ★ W4ndr: entonces usare esa
+[17Apr2025 20:13:18.959] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ShirouFRG has made the advancement [Fishy Business]
+[17Apr2025 20:14:49.263] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: VALIENTE (vehicle of ShirouFRG) moved wrongly! 0.2972582454548842
+[17Apr2025 20:14:49.306] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: VALIENTE (vehicle of ShirouFRG) moved wrongly! 1.2411553163342717
+[17Apr2025 20:15:00.364] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: VALIENTE (vehicle of ShirouFRG) moved wrongly! 0.5567805523970435
+[17Apr2025 20:15:00.405] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: VALIENTE (vehicle of ShirouFRG) moved wrongly! 1.010464612439307
+[17Apr2025 20:15:00.459] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: VALIENTE (vehicle of ShirouFRG) moved wrongly! 1.360219555500322
+[17Apr2025 20:15:23.408] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: VALIENTE (vehicle of ShirouFRG) moved wrongly! 0.6135554666188625
+[17Apr2025 20:15:23.464] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: VALIENTE (vehicle of ShirouFRG) moved wrongly! 1.476641545996415
+[17Apr2025 20:15:23.510] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: VALIENTE (vehicle of ShirouFRG) moved wrongly! 2.146876861707881
+[17Apr2025 20:15:26.661] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: VALIENTE (vehicle of ShirouFRG) moved wrongly! 0.29777165843751163
+[17Apr2025 20:15:26.712] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: VALIENTE (vehicle of ShirouFRG) moved wrongly! 1.2500643229312516
+[17Apr2025 20:15:26.760] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: VALIENTE (vehicle of ShirouFRG) moved wrongly! 2.214682425867011
+[17Apr2025 20:15:36.812] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: VALIENTE (vehicle of ShirouFRG) moved wrongly! 0.3284247827304104
+[17Apr2025 20:15:36.858] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: VALIENTE (vehicle of ShirouFRG) moved wrongly! 1.310564827892398
+[17Apr2025 20:15:36.913] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: VALIENTE (vehicle of ShirouFRG) moved wrongly! 2.301472021385041
+[17Apr2025 20:19:13.317] [Worker-Main-2/INFO] [bettercaves/]: CREATING AND INIT'ING CARVER W DIMENSION minecraft:overworld...
+[17Apr2025 20:19:13.318] [Worker-Main-2/INFO] [bettercaves/]: Better Caves config file for dimension minecraft:overworld not found. Using global config...
+[17Apr2025 20:19:13.351] [Worker-Main-2/INFO] [bettercaves/]: Using block 'minecraft:lava' as lava in cave generation for dimension minecraft:overworld
+[17Apr2025 20:19:13.352] [Worker-Main-2/INFO] [bettercaves/]: Using block 'Block{minecraft:water}[level=0]' as water in cave generation for dimension minecraft:overworld
+[17Apr2025 20:20:52.142] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: ShirouFRG was kicked for floating too long!
+[17Apr2025 20:20:52.143] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: ShirouFRG lost connection: Flying is not enabled on this server
+[17Apr2025 20:20:52.143] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ShirouFRG left the game
+[17Apr2025 20:20:52.143] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client ShirouFRG
+[17Apr2025 20:20:52.201] [Server thread/WARN] [net.minecraft.network.NetworkManager/]: handleDisconnection() called twice
+[17Apr2025 20:20:58.298] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@5834bfcf
+[17Apr2025 20:20:58.324] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: ShirouFRG[/127.92.35.242:45611] logged in with entity id 13351 at (115.81417788386061, 69.33889900375085, 153.5849170023158)
+[17Apr2025 20:20:58.345] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ShirouFRG joined the game
+[17Apr2025 20:20:58.356] [Server thread/INFO] [Waila/]: Syncing config to ShirouFRG (924c1042-eb96-30b4-8b16-790e68f4b1fa)
+[17Apr2025 20:20:58.368] [Server thread/INFO] [antiqueatlas/]: Sent markers data #-1 to player ShirouFRG
+[17Apr2025 20:20:58.368] [Server thread/INFO] [antiqueatlas/]: Sent custom biome data to player ShirouFRG
+[17Apr2025 20:20:58.369] [Server thread/INFO] [antiqueatlas/]: Sent custom biome data to player ShirouFRG
+[17Apr2025 20:20:58.369] [Server thread/INFO] [antiqueatlas/]: Sent custom biome data to player ShirouFRG
+[17Apr2025 20:20:59.244] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of ShirouFRG (18)
+[17Apr2025 20:20:59.245] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to ShirouFRG
+[17Apr2025 20:21:03.062] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 924c1042-eb96-30b4-8b16-790e68f4b1fa
+[17Apr2025 20:21:04.058] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 924c1042-eb96-30b4-8b16-790e68f4b1fa
+[17Apr2025 20:21:04.059] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player ShirouFRG (924c1042-eb96-30b4-8b16-790e68f4b1fa) successfully connected to voice chat
+[17Apr2025 20:22:02.715] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: ★ Baeel: deberiamos ir a buscar dungeons cuando estemos mejor equipados
+[17Apr2025 20:22:08.705] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: VALIENTE (vehicle of ShirouFRG) moved wrongly! 0.5073122635403706
+[17Apr2025 20:22:28.606] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: VALIENTE (vehicle of ShirouFRG) moved wrongly! 0.4019881954318616
+[17Apr2025 20:22:28.660] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: VALIENTE (vehicle of ShirouFRG) moved wrongly! 1.2116748129255295

@@ -21,7 +21,7 @@
 	heavyTiles = true
 	#Max width of entities that can be picked up in survival mode
 	#Range: 0.0 ~ 10.0
-	maxEntityWidth = 1.5
+	maxEntityWidth = 3.5
 	#Whether the player drops the carried object when hit or not
 	dropCarriedWhenHit = false
 	#Use Whitelist instead of Blacklist for Blocks

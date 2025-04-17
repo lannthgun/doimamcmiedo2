@@ -1961,6 +1961,12 @@
     },
     "done": true
   },
+  "storagedrawers:recipes/storagedrawers/jungle_drawers": {
+    "criteria": {
+      "has_chest": "2025-04-17 01:08:49 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/lime_stained_glass_pane": {
     "criteria": {
       "has_the_recipe": "2025-04-17 00:54:39 +0000"
@@ -2120,6 +2126,12 @@
   "minecraft:recipes/misc/red_dye_from_beetroot": {
     "criteria": {
       "has_the_recipe": "2025-04-17 00:54:39 +0000"
+    },
+    "done": true
+  },
+  "storagedrawers:recipes/storagedrawers/warped_drawers": {
+    "criteria": {
+      "has_chest": "2025-04-17 01:08:49 +0000"
     },
     "done": true
   },
@@ -2642,6 +2654,12 @@
   "inspirations:recipes/misc/cauldron/dye/bottle/mix/magenta_from_purple_pink": {
     "criteria": {
       "has_the_recipe": "2025-04-17 00:54:40 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/root": {
+    "criteria": {
+      "seeds": "2025-04-17 01:08:49 +0000"
     },
     "done": true
   },
@@ -3410,6 +3428,12 @@
   "minecraft:recipes/decorations/lime_glazed_terracotta": {
     "criteria": {
       "has_the_recipe": "2025-04-17 00:54:40 +0000"
+    },
+    "done": true
+  },
+  "storagedrawers:recipes/storagedrawers/acacia_drawers": {
+    "criteria": {
+      "has_chest": "2025-04-17 01:08:49 +0000"
     },
     "done": true
   },
@@ -4307,6 +4331,12 @@
     },
     "done": true
   },
+  "storagedrawers:recipes/storagedrawers/oak_drawers": {
+    "criteria": {
+      "has_chest": "2025-04-17 01:08:49 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/farmersdelight/canvas": {
     "criteria": {
       "has_the_recipe": "2025-04-17 00:54:40 +0000"
@@ -4448,6 +4478,12 @@
   "farmersdelight:recipes/farmersdelight/cooked_cod_slice_from_campfire_cooking": {
     "criteria": {
       "has_the_recipe": "2025-04-17 00:54:40 +0000"
+    },
+    "done": true
+  },
+  "storagedrawers:recipes/storagedrawers/dark_oak_drawers": {
+    "criteria": {
+      "has_chest": "2025-04-17 01:08:49 +0000"
     },
     "done": true
   },
@@ -5039,6 +5075,12 @@
     },
     "done": true
   },
+  "storagedrawers:recipes/storagedrawers/birch_drawers": {
+    "criteria": {
+      "has_chest": "2025-04-17 01:08:49 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/bone_meal": {
     "criteria": {
       "has_the_recipe": "2025-04-17 00:54:40 +0000"
@@ -5258,7 +5300,9 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:beach": "2025-04-17 00:55:26 +0000",
+      "minecraft:river": "2025-04-17 01:08:11 +0000",
       "minecraft:lukewarm_ocean": "2025-04-17 00:55:32 +0000",
+      "minecraft:savanna": "2025-04-17 01:09:09 +0000",
       "minecraft:plains": "2025-04-17 00:54:40 +0000"
     },
     "done": false
@@ -5824,6 +5868,12 @@
   "minecraft:recipes/misc/bone_meal_from_bone_block": {
     "criteria": {
       "has_the_recipe": "2025-04-17 00:54:40 +0000"
+    },
+    "done": true
+  },
+  "storagedrawers:recipes/storagedrawers/crimson_drawers": {
+    "criteria": {
+      "has_chest": "2025-04-17 01:08:49 +0000"
     },
     "done": true
   },
@@ -6838,6 +6888,12 @@
   "minecraft:recipes/redstone/light_weighted_pressure_plate": {
     "criteria": {
       "has_the_recipe": "2025-04-17 00:54:40 +0000"
+    },
+    "done": true
+  },
+  "storagedrawers:recipes/storagedrawers/spruce_drawers": {
+    "criteria": {
+      "has_chest": "2025-04-17 01:08:49 +0000"
     },
     "done": true
   },
